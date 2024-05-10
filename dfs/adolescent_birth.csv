@@ -1,0 +1,523 @@
+,county,strata,strata_name,population,births,abr,lower,upper
+0,Alameda,Age 15-19,All,154934,1508,9.7,9.2,10.2
+1,Alameda,Age 15-17,All,86666,367,4.2,3.8,4.6
+2,Alameda,Age 18-19,All,68268,1141,16.7,15.7,17.7
+3,Alameda,Age 15-19,Hispanic,46722,890,19.0,17.8,20.2
+4,Alameda,Age 15-19,AsianPI,41518,82,2.0,1.6,2.5
+5,Alameda,Age 15-19,White,37507,114,3.0,2.4,3.6
+6,Alameda,Age 15-19,Black,18921,284,15.0,13.3,16.7
+7,Alameda,Age 15-19,MultRace,9877,67,6.8,5.3,8.6
+8,Alameda,Age 15-19,AIAN,389,0,0.0,0.0,0.0
+9,Alpine,Age 15-19,All,129,0,0.0,0.0,0.0
+10,Alpine,Age 15-19,White,88,0,0.0,0.0,0.0
+11,Alpine,Age 15-17,All,82,0,0.0,0.0,0.0
+12,Alpine,Age 18-19,All,47,0,0.0,0.0,0.0
+13,Alpine,Age 15-19,AIAN,33,0,0.0,0.0,0.0
+14,Alpine,Age 15-19,Hispanic,8,0,0.0,0.0,0.0
+15,Alpine,Age 15-19,AsianPI,0,0,0.0,0.0,0.0
+16,Alpine,Age 15-19,Black,0,0,0.0,0.0,0.0
+17,Alpine,Age 15-19,MultRace,0,0,0.0,0.0,0.0
+18,Amador,Age 15-19,All,2919,0,0.0,0.0,0.0
+19,Amador,Age 15-19,White,2136,0,0.0,0.0,0.0
+20,Amador,Age 15-17,All,1737,0,0.0,0.0,0.0
+21,Amador,Age 18-19,All,1182,0,0.0,0.0,0.0
+22,Amador,Age 15-19,Hispanic,525,0,0.0,0.0,0.0
+23,Amador,Age 15-19,MultRace,172,0,0.0,0.0,0.0
+24,Amador,Age 15-19,AIAN,47,0,0.0,0.0,0.0
+25,Amador,Age 15-19,AsianPI,23,0,0.0,0.0,0.0
+26,Amador,Age 15-19,Black,16,0,0.0,0.0,0.0
+27,Butte,Age 15-19,All,25951,420,16.2,14.7,17.7
+28,Butte,Age 15-19,White,16295,208,12.8,11.1,14.5
+29,Butte,Age 18-19,All,13057,311,23.8,21.2,26.4
+30,Butte,Age 15-17,All,12894,109,8.5,6.9,10.1
+31,Butte,Age 15-19,Hispanic,5798,106,18.3,14.8,21.8
+32,Butte,Age 15-19,AsianPI,1725,0,0.0,0.0,0.0
+33,Butte,Age 15-19,MultRace,1344,0,0.0,0.0,0.0
+34,Butte,Age 15-19,AIAN,431,0,0.0,0.0,0.0
+35,Butte,Age 15-19,Black,358,0,0.0,0.0,0.0
+36,Calaveras,Age 15-19,All,3995,0,0.0,0.0,0.0
+37,Calaveras,Age 15-19,White,3009,0,0.0,0.0,0.0
+38,Calaveras,Age 15-17,All,2273,0,0.0,0.0,0.0
+39,Calaveras,Age 18-19,All,1722,0,0.0,0.0,0.0
+40,Calaveras,Age 15-19,Hispanic,698,0,0.0,0.0,0.0
+41,Calaveras,Age 15-19,MultRace,165,0,0.0,0.0,0.0
+42,Calaveras,Age 15-19,AsianPI,58,0,0.0,0.0,0.0
+43,Calaveras,Age 15-19,AIAN,34,0,0.0,0.0,0.0
+44,Calaveras,Age 15-19,Black,31,0,0.0,0.0,0.0
+45,Colusa,Age 15-19,All,2451,0,0.0,0.0,0.0
+46,Colusa,Age 15-19,Hispanic,1713,0,0.0,0.0,0.0
+47,Colusa,Age 15-17,All,1504,0,0.0,0.0,0.0
+48,Colusa,Age 18-19,All,947,0,0.0,0.0,0.0
+49,Colusa,Age 15-19,White,626,0,0.0,0.0,0.0
+50,Colusa,Age 15-19,AIAN,48,0,0.0,0.0,0.0
+51,Colusa,Age 15-19,MultRace,46,0,0.0,0.0,0.0
+52,Colusa,Age 15-19,AsianPI,10,0,0.0,0.0,0.0
+53,Colusa,Age 15-19,Black,8,0,0.0,0.0,0.0
+54,Contra Costa,Age 15-19,All,106449,1178,11.1,10.5,11.7
+55,Contra Costa,Age 15-17,All,66067,306,4.6,4.1,5.1
+56,Contra Costa,Age 18-19,All,40382,872,21.6,20.2,23.0
+57,Contra Costa,Age 15-19,White,39475,139,3.5,2.9,4.1
+58,Contra Costa,Age 15-19,Hispanic,34394,716,20.8,19.3,22.3
+59,Contra Costa,Age 15-19,AsianPI,13958,40,2.9,2.1,3.9
+60,Contra Costa,Age 15-19,Black,11387,171,15.0,12.8,17.2
+61,Contra Costa,Age 15-19,MultRace,7005,70,10.0,7.8,12.6
+62,Contra Costa,Age 15-19,AIAN,230,0,0.0,0.0,0.0
+63,Del Norte,Age 15-19,All,2504,0,0.0,0.0,0.0
+64,Del Norte,Age 15-17,All,1559,0,0.0,0.0,0.0
+65,Del Norte,Age 15-19,White,1414,0,0.0,0.0,0.0
+66,Del Norte,Age 18-19,All,945,0,0.0,0.0,0.0
+67,Del Norte,Age 15-19,Hispanic,536,0,0.0,0.0,0.0
+68,Del Norte,Age 15-19,AIAN,255,0,0.0,0.0,0.0
+69,Del Norte,Age 15-19,AsianPI,164,0,0.0,0.0,0.0
+70,Del Norte,Age 15-19,MultRace,135,0,0.0,0.0,0.0
+71,Del Norte,Age 15-19,Black,0,0,0.0,0.0,0.0
+72,El Dorado,Age 15-19,All,18809,159,8.5,7.2,9.8
+73,El Dorado,Age 15-19,White,13410,0,0.0,0.0,0.0
+74,El Dorado,Age 15-17,All,11225,0,0.0,0.0,0.0
+75,El Dorado,Age 18-19,All,7584,123,16.2,13.3,19.1
+76,El Dorado,Age 15-19,Hispanic,3475,0,0.0,0.0,0.0
+77,El Dorado,Age 15-19,MultRace,908,0,0.0,0.0,0.0
+78,El Dorado,Age 15-19,AsianPI,687,0,0.0,0.0,0.0
+79,El Dorado,Age 15-19,AIAN,165,0,0.0,0.0,0.0
+80,El Dorado,Age 15-19,Black,164,0,0.0,0.0,0.0
+81,Fresno,Age 15-19,All,120564,3592,29.8,28.8,30.8
+82,Fresno,Age 15-19,Hispanic,72889,2702,37.1,35.7,38.5
+83,Fresno,Age 15-17,All,67468,1131,16.8,15.8,17.8
+84,Fresno,Age 18-19,All,53096,2461,46.4,44.6,48.2
+85,Fresno,Age 15-19,White,25918,315,12.2,10.9,13.5
+86,Fresno,Age 15-19,AsianPI,12342,210,17.0,14.7,19.3
+87,Fresno,Age 15-19,Black,5944,266,44.8,39.4,50.2
+88,Fresno,Age 15-19,MultRace,2865,54,18.8,14.1,24.5
+89,Fresno,Age 15-19,AIAN,606,24,39.6,25.4,58.9
+90,Glenn,Age 15-19,All,3193,0,0.0,0.0,0.0
+91,Glenn,Age 15-17,All,1918,0,0.0,0.0,0.0
+92,Glenn,Age 15-19,Hispanic,1615,0,0.0,0.0,0.0
+93,Glenn,Age 15-19,White,1420,0,0.0,0.0,0.0
+94,Glenn,Age 18-19,All,1275,0,0.0,0.0,0.0
+95,Glenn,Age 15-19,AsianPI,61,0,0.0,0.0,0.0
+96,Glenn,Age 15-19,MultRace,60,0,0.0,0.0,0.0
+97,Glenn,Age 15-19,AIAN,26,0,0.0,0.0,0.0
+98,Glenn,Age 15-19,Black,11,0,0.0,0.0,0.0
+99,Humboldt,Age 15-19,All,14356,208,14.5,12.5,16.5
+100,Humboldt,Age 15-19,White,9053,0,0.0,0.0,0.0
+101,Humboldt,Age 15-17,All,7466,0,0.0,0.0,0.0
+102,Humboldt,Age 18-19,All,6890,155,22.5,19.0,26.0
+103,Humboldt,Age 15-19,Hispanic,2718,0,0.0,0.0,0.0
+104,Humboldt,Age 15-19,MultRace,1026,0,0.0,0.0,0.0
+105,Humboldt,Age 15-19,AIAN,892,0,0.0,0.0,0.0
+106,Humboldt,Age 15-19,AsianPI,499,0,0.0,0.0,0.0
+107,Humboldt,Age 15-19,Black,168,0,0.0,0.0,0.0
+108,Imperial,Age 15-19,All,20747,784,37.8,35.2,40.4
+109,Imperial,Age 15-19,Hispanic,18477,739,40.0,37.1,42.9
+110,Imperial,Age 15-17,All,12451,214,17.2,14.9,19.5
+111,Imperial,Age 18-19,All,8296,570,68.7,63.1,74.3
+112,Imperial,Age 15-19,White,1601,0,0.0,0.0,0.0
+113,Imperial,Age 15-19,AIAN,261,0,0.0,0.0,0.0
+114,Imperial,Age 15-19,AsianPI,181,0,0.0,0.0,0.0
+115,Imperial,Age 15-19,Black,131,0,0.0,0.0,0.0
+116,Imperial,Age 15-19,MultRace,96,0,0.0,0.0,0.0
+117,Inyo,Age 15-19,All,1598,0,0.0,0.0,0.0
+118,Inyo,Age 15-17,All,928,0,0.0,0.0,0.0
+119,Inyo,Age 15-19,White,740,0,0.0,0.0,0.0
+120,Inyo,Age 18-19,All,670,0,0.0,0.0,0.0
+121,Inyo,Age 15-19,Hispanic,590,0,0.0,0.0,0.0
+122,Inyo,Age 15-19,AIAN,205,0,0.0,0.0,0.0
+123,Inyo,Age 15-19,MultRace,44,0,0.0,0.0,0.0
+124,Inyo,Age 15-19,Black,12,0,0.0,0.0,0.0
+125,Inyo,Age 15-19,AsianPI,7,0,0.0,0.0,0.0
+126,Kern,Age 15-19,All,104299,3716,35.6,34.5,36.7
+127,Kern,Age 15-19,Hispanic,64089,2728,42.6,41.0,44.2
+128,Kern,Age 15-17,All,60747,1091,18.0,16.9,19.1
+129,Kern,Age 18-19,All,43552,2625,60.3,58.0,62.6
+130,Kern,Age 15-19,White,27686,610,22.0,20.3,23.7
+131,Kern,Age 15-19,Black,5508,231,41.9,36.5,47.3
+132,Kern,Age 15-19,AsianPI,3780,23,6.1,3.9,9.2
+133,Kern,Age 15-19,MultRace,2542,88,34.6,27.8,42.6
+134,Kern,Age 15-19,AIAN,694,15,21.6,12.1,35.6
+135,Kings,Age 15-19,All,17292,554,32.0,29.3,34.7
+136,Kings,Age 15-19,Hispanic,11480,436,38.0,34.4,41.6
+137,Kings,Age 15-17,All,10497,156,14.9,12.6,17.2
+138,Kings,Age 18-19,All,6795,398,58.6,52.8,64.4
+139,Kings,Age 15-19,White,3729,0,0.0,0.0,0.0
+140,Kings,Age 15-19,Black,760,0,0.0,0.0,0.0
+141,Kings,Age 15-19,AsianPI,618,0,0.0,0.0,0.0
+142,Kings,Age 15-19,MultRace,529,0,0.0,0.0,0.0
+143,Kings,Age 15-19,AIAN,176,0,0.0,0.0,0.0
+144,Lake,Age 15-19,All,5447,167,30.7,26.0,35.4
+145,Lake,Age 15-19,White,3378,0,0.0,0.0,0.0
+146,Lake,Age 15-17,All,3261,0,0.0,0.0,0.0
+147,Lake,Age 18-19,All,2186,0,0.0,0.0,0.0
+148,Lake,Age 15-19,Hispanic,1564,0,0.0,0.0,0.0
+149,Lake,Age 15-19,MultRace,246,0,0.0,0.0,0.0
+150,Lake,Age 15-19,AIAN,183,0,0.0,0.0,0.0
+151,Lake,Age 15-19,Black,48,0,0.0,0.0,0.0
+152,Lake,Age 15-19,AsianPI,28,0,0.0,0.0,0.0
+153,Lassen,Age 15-19,All,2371,0,0.0,0.0,0.0
+154,Lassen,Age 15-19,White,1747,0,0.0,0.0,0.0
+155,Lassen,Age 15-17,All,1418,0,0.0,0.0,0.0
+156,Lassen,Age 18-19,All,953,0,0.0,0.0,0.0
+157,Lassen,Age 15-19,Hispanic,375,0,0.0,0.0,0.0
+158,Lassen,Age 15-19,MultRace,135,0,0.0,0.0,0.0
+159,Lassen,Age 15-19,AIAN,81,0,0.0,0.0,0.0
+160,Lassen,Age 15-19,AsianPI,18,0,0.0,0.0,0.0
+161,Lassen,Age 15-19,Black,15,0,0.0,0.0,0.0
+162,Los Angeles,Age 15-19,All,1075590,18423,17.1,16.9,17.3
+163,Los Angeles,Age 15-19,Hispanic,643340,15627,24.3,23.9,24.7
+164,Los Angeles,Age 15-17,All,609054,5232,8.6,8.4,8.8
+165,Los Angeles,Age 18-19,All,466536,13191,28.3,27.8,28.8
+166,Los Angeles,Age 15-19,White,195999,580,3.0,2.8,3.2
+167,Los Angeles,Age 15-19,AsianPI,118806,199,1.7,1.5,1.9
+168,Los Angeles,Age 15-19,Black,87138,1645,18.9,18.0,19.8
+169,Los Angeles,Age 15-19,MultRace,28603,249,8.7,7.6,9.8
+170,Los Angeles,Age 15-19,AIAN,1704,21,12.3,7.6,18.8
+171,Madera,Age 15-19,All,17290,617,35.7,32.9,38.5
+172,Madera,Age 15-19,Hispanic,11508,516,44.8,40.9,48.7
+173,Madera,Age 15-17,All,10262,194,18.9,16.2,21.6
+174,Madera,Age 18-19,All,7028,423,60.2,54.5,65.9
+175,Madera,Age 15-19,White,4517,0,0.0,0.0,0.0
+176,Madera,Age 15-19,Black,382,0,0.0,0.0,0.0
+177,Madera,Age 15-19,MultRace,368,0,0.0,0.0,0.0
+178,Madera,Age 15-19,AsianPI,328,0,0.0,0.0,0.0
+179,Madera,Age 15-19,AIAN,187,0,0.0,0.0,0.0
+180,Marin,Age 15-19,All,21136,159,7.5,6.3,8.7
+181,Marin,Age 15-19,White,13957,0,0.0,0.0,0.0
+182,Marin,Age 15-17,All,13365,0,0.0,0.0,0.0
+183,Marin,Age 18-19,All,7771,110,14.2,11.5,16.9
+184,Marin,Age 15-19,Hispanic,4214,133,31.6,26.2,37.0
+185,Marin,Age 15-19,AsianPI,1291,0,0.0,0.0,0.0
+186,Marin,Age 15-19,MultRace,1216,0,0.0,0.0,0.0
+187,Marin,Age 15-19,Black,423,0,0.0,0.0,0.0
+188,Marin,Age 15-19,AIAN,35,0,0.0,0.0,0.0
+189,Mariposa,Age 15-19,All,1482,0,0.0,0.0,0.0
+190,Mariposa,Age 15-19,White,1119,0,0.0,0.0,0.0
+191,Mariposa,Age 15-17,All,829,0,0.0,0.0,0.0
+192,Mariposa,Age 18-19,All,653,0,0.0,0.0,0.0
+193,Mariposa,Age 15-19,Hispanic,249,0,0.0,0.0,0.0
+194,Mariposa,Age 15-19,MultRace,76,0,0.0,0.0,0.0
+195,Mariposa,Age 15-19,Black,15,0,0.0,0.0,0.0
+196,Mariposa,Age 15-19,AIAN,13,0,0.0,0.0,0.0
+197,Mariposa,Age 15-19,AsianPI,10,0,0.0,0.0,0.0
+198,Mendocino,Age 15-19,All,7843,194,24.7,21.2,28.2
+199,Mendocino,Age 15-17,All,4647,0,0.0,0.0,0.0
+200,Mendocino,Age 15-19,White,3966,0,0.0,0.0,0.0
+201,Mendocino,Age 18-19,All,3196,0,0.0,0.0,0.0
+202,Mendocino,Age 15-19,Hispanic,2832,0,0.0,0.0,0.0
+203,Mendocino,Age 15-19,AIAN,400,0,0.0,0.0,0.0
+204,Mendocino,Age 15-19,MultRace,350,0,0.0,0.0,0.0
+205,Mendocino,Age 15-19,AsianPI,265,0,0.0,0.0,0.0
+206,Mendocino,Age 15-19,Black,30,0,0.0,0.0,0.0
+207,Merced,Age 15-19,All,35518,1043,29.4,27.6,31.2
+208,Merced,Age 15-19,Hispanic,23486,809,34.4,32.0,36.8
+209,Merced,Age 15-17,All,20468,296,14.5,12.8,16.2
+210,Merced,Age 18-19,All,15050,747,49.6,46.0,53.2
+211,Merced,Age 15-19,White,6880,143,20.8,17.4,24.2
+212,Merced,Age 15-19,AsianPI,3317,0,0.0,0.0,0.0
+213,Merced,Age 15-19,Black,1052,0,0.0,0.0,0.0
+214,Merced,Age 15-19,MultRace,702,0,0.0,0.0,0.0
+215,Merced,Age 15-19,AIAN,81,0,0.0,0.0,0.0
+216,Modoc,Age 15-19,All,928,0,0.0,0.0,0.0
+217,Modoc,Age 15-19,White,597,0,0.0,0.0,0.0
+218,Modoc,Age 15-17,All,523,0,0.0,0.0,0.0
+219,Modoc,Age 18-19,All,405,0,0.0,0.0,0.0
+220,Modoc,Age 15-19,Hispanic,234,0,0.0,0.0,0.0
+221,Modoc,Age 15-19,AIAN,54,0,0.0,0.0,0.0
+222,Modoc,Age 15-19,MultRace,42,0,0.0,0.0,0.0
+223,Modoc,Age 15-19,AsianPI,1,0,0.0,0.0,0.0
+224,Modoc,Age 15-19,Black,0,0,0.0,0.0,0.0
+225,Mono,Age 15-19,All,1116,0,0.0,0.0,0.0
+226,Mono,Age 15-17,All,682,0,0.0,0.0,0.0
+227,Mono,Age 15-19,White,521,0,0.0,0.0,0.0
+228,Mono,Age 15-19,Hispanic,504,0,0.0,0.0,0.0
+229,Mono,Age 18-19,All,434,0,0.0,0.0,0.0
+230,Mono,Age 15-19,AsianPI,31,0,0.0,0.0,0.0
+231,Mono,Age 15-19,MultRace,30,0,0.0,0.0,0.0
+232,Mono,Age 15-19,AIAN,27,0,0.0,0.0,0.0
+233,Mono,Age 15-19,Black,3,0,0.0,0.0,0.0
+234,Monterey,Age 15-19,All,47469,1333,28.1,26.6,29.6
+235,Monterey,Age 15-19,Hispanic,32476,1246,38.4,36.3,40.5
+236,Monterey,Age 15-17,All,27104,421,15.5,14.0,17.0
+237,Monterey,Age 18-19,All,20365,912,44.8,41.9,47.7
+238,Monterey,Age 15-19,White,9766,0,0.0,0.0,0.0
+239,Monterey,Age 15-19,AsianPI,2626,0,0.0,0.0,0.0
+240,Monterey,Age 15-19,MultRace,1642,0,0.0,0.0,0.0
+241,Monterey,Age 15-19,Black,827,0,0.0,0.0,0.0
+242,Monterey,Age 15-19,AIAN,132,0,0.0,0.0,0.0
+243,Napa,Age 15-19,All,14268,179,12.5,10.7,14.3
+244,Napa,Age 15-17,All,8691,0,0.0,0.0,0.0
+245,Napa,Age 15-19,Hispanic,6529,150,23.0,19.3,26.7
+246,Napa,Age 15-19,White,5625,0,0.0,0.0,0.0
+247,Napa,Age 18-19,All,5577,130,23.3,19.3,27.3
+248,Napa,Age 15-19,AsianPI,1270,0,0.0,0.0,0.0
+249,Napa,Age 15-19,MultRace,508,0,0.0,0.0,0.0
+250,Napa,Age 15-19,Black,270,0,0.0,0.0,0.0
+251,Napa,Age 15-19,AIAN,66,0,0.0,0.0,0.0
+252,Nevada,Age 15-19,All,8323,0,0.0,0.0,0.0
+253,Nevada,Age 15-19,White,6669,0,0.0,0.0,0.0
+254,Nevada,Age 15-17,All,4885,0,0.0,0.0,0.0
+255,Nevada,Age 18-19,All,3438,0,0.0,0.0,0.0
+256,Nevada,Age 15-19,Hispanic,1116,0,0.0,0.0,0.0
+257,Nevada,Age 15-19,MultRace,389,0,0.0,0.0,0.0
+258,Nevada,Age 15-19,AsianPI,75,0,0.0,0.0,0.0
+259,Nevada,Age 15-19,AIAN,41,0,0.0,0.0,0.0
+260,Nevada,Age 15-19,Black,33,0,0.0,0.0,0.0
+261,Orange,Age 15-19,All,338730,4166,12.3,11.9,12.7
+262,Orange,Age 15-17,All,194371,1205,6.2,5.8,6.6
+263,Orange,Age 15-19,Hispanic,149358,3580,24.0,23.2,24.8
+264,Orange,Age 18-19,All,144359,2961,20.5,19.8,21.2
+265,Orange,Age 15-19,White,112749,381,3.4,3.1,3.7
+266,Orange,Age 15-19,AsianPI,58082,67,1.2,0.9,1.5
+267,Orange,Age 15-19,MultRace,12976,40,3.1,2.2,4.2
+268,Orange,Age 15-19,Black,4973,56,11.3,8.5,14.7
+269,Orange,Age 15-19,AIAN,592,0,0.0,0.0,0.0
+270,Placer,Age 15-19,All,35657,272,7.6,6.7,8.5
+271,Placer,Age 15-19,White,24123,139,5.8,4.8,6.8
+272,Placer,Age 15-17,All,22118,62,2.8,2.1,3.6
+273,Placer,Age 18-19,All,13539,210,15.5,13.4,17.6
+274,Placer,Age 15-19,Hispanic,6374,101,15.8,12.7,18.9
+275,Placer,Age 15-19,MultRace,2192,0,0.0,0.0,0.0
+276,Placer,Age 15-19,AsianPI,2113,0,0.0,0.0,0.0
+277,Placer,Age 15-19,Black,643,0,0.0,0.0,0.0
+278,Placer,Age 15-19,AIAN,212,0,0.0,0.0,0.0
+279,Plumas,Age 15-19,All,1566,0,0.0,0.0,0.0
+280,Plumas,Age 15-19,White,1200,0,0.0,0.0,0.0
+281,Plumas,Age 15-17,All,898,0,0.0,0.0,0.0
+282,Plumas,Age 18-19,All,668,0,0.0,0.0,0.0
+283,Plumas,Age 15-19,Hispanic,228,0,0.0,0.0,0.0
+284,Plumas,Age 15-19,MultRace,62,0,0.0,0.0,0.0
+285,Plumas,Age 15-19,AIAN,58,0,0.0,0.0,0.0
+286,Plumas,Age 15-19,Black,18,0,0.0,0.0,0.0
+287,Plumas,Age 15-19,AsianPI,0,0,0.0,0.0,0.0
+288,Riverside,Age 15-19,All,273621,5394,19.7,19.2,20.2
+289,Riverside,Age 15-17,All,162024,1444,8.9,8.4,9.4
+290,Riverside,Age 15-19,Hispanic,158865,4144,26.1,25.3,26.9
+291,Riverside,Age 18-19,All,111597,3950,35.4,34.3,36.5
+292,Riverside,Age 15-19,White,71175,620,8.7,8.0,9.4
+293,Riverside,Age 15-19,Black,17537,347,19.8,17.7,21.9
+294,Riverside,Age 15-19,AsianPI,15577,48,3.1,2.3,4.1
+295,Riverside,Age 15-19,MultRace,9189,172,18.7,15.9,21.5
+296,Riverside,Age 15-19,AIAN,1278,32,25.0,17.1,35.3
+297,Sacramento,Age 15-19,All,159485,2671,16.7,16.1,17.3
+298,Sacramento,Age 15-17,All,89895,618,6.9,6.4,7.4
+299,Sacramento,Age 18-19,All,69590,2053,29.5,28.2,30.8
+300,Sacramento,Age 15-19,White,54954,537,9.8,9.0,10.6
+301,Sacramento,Age 15-19,Hispanic,48865,1141,23.4,22.0,24.8
+302,Sacramento,Age 15-19,AsianPI,25252,206,8.2,7.1,9.3
+303,Sacramento,Age 15-19,Black,18849,473,25.1,22.8,27.4
+304,Sacramento,Age 15-19,MultRace,10628,267,25.1,22.1,28.1
+305,Sacramento,Age 15-19,AIAN,937,0,0.0,0.0,0.0
+306,San Benito,Age 15-19,All,6668,126,18.9,15.6,22.2
+307,San Benito,Age 15-19,Hispanic,4531,0,0.0,0.0,0.0
+308,San Benito,Age 15-17,All,3897,0,0.0,0.0,0.0
+309,San Benito,Age 18-19,All,2771,0,0.0,0.0,0.0
+310,San Benito,Age 15-19,White,1774,0,0.0,0.0,0.0
+311,San Benito,Age 15-19,AsianPI,165,0,0.0,0.0,0.0
+312,San Benito,Age 15-19,MultRace,146,0,0.0,0.0,0.0
+313,San Benito,Age 15-19,Black,33,0,0.0,0.0,0.0
+314,San Benito,Age 15-19,AIAN,19,0,0.0,0.0,0.0
+315,San Bernardino,Age 15-19,All,251903,6176,24.5,23.9,25.1
+316,San Bernardino,Age 15-19,Hispanic,158688,4395,27.7,26.9,28.5
+317,San Bernardino,Age 15-17,All,147288,1516,10.3,9.8,10.8
+318,San Bernardino,Age 18-19,All,104615,4660,44.5,43.2,45.8
+319,San Bernardino,Age 15-19,White,49451,847,17.1,15.9,18.3
+320,San Bernardino,Age 15-19,Black,22678,651,28.7,26.5,30.9
+321,San Bernardino,Age 15-19,AsianPI,13174,37,2.8,2.0,3.9
+322,San Bernardino,Age 15-19,MultRace,7071,219,31.0,26.9,35.1
+323,San Bernardino,Age 15-19,AIAN,841,12,14.3,7.4,25.0
+324,San Diego,Age 15-19,All,330756,5245,15.9,15.5,16.3
+325,San Diego,Age 15-17,All,188194,1299,6.9,6.5,7.3
+326,San Diego,Age 15-19,Hispanic,148710,3637,24.5,23.7,25.3
+327,San Diego,Age 18-19,All,142562,3946,27.7,26.8,28.6
+328,San Diego,Age 15-19,White,112929,623,5.5,5.1,5.9
+329,San Diego,Age 15-19,AsianPI,36252,110,3.0,2.4,3.6
+330,San Diego,Age 15-19,MultRace,16370,157,9.6,8.1,11.1
+331,San Diego,Age 15-19,Black,15207,246,16.2,14.2,18.2
+332,San Diego,Age 15-19,AIAN,1288,28,21.7,14.4,31.4
+333,San Francisco,Age 15-19,All,51821,390,7.5,6.8,8.2
+334,San Francisco,Age 15-17,All,26411,108,4.1,3.3,4.9
+335,San Francisco,Age 18-19,All,25410,282,11.1,9.8,12.4
+336,San Francisco,Age 15-19,AsianPI,20788,36,1.7,1.2,2.4
+337,San Francisco,Age 15-19,White,12494,17,1.4,0.8,2.2
+338,San Francisco,Age 15-19,Hispanic,11652,239,20.5,17.9,23.1
+339,San Francisco,Age 15-19,Black,3918,70,17.9,14.0,22.6
+340,San Francisco,Age 15-19,MultRace,2872,19,6.6,4.0,10.3
+341,San Francisco,Age 15-19,AIAN,97,0,0.0,0.0,0.0
+342,San Joaquin,Age 15-19,All,85522,1857,21.7,20.7,22.7
+343,San Joaquin,Age 15-17,All,51079,497,9.7,8.8,10.6
+344,San Joaquin,Age 15-19,Hispanic,40641,1195,29.4,27.7,31.1
+345,San Joaquin,Age 18-19,All,34443,1360,39.5,37.4,41.6
+346,San Joaquin,Age 15-19,White,21286,245,11.5,10.1,12.9
+347,San Joaquin,Age 15-19,AsianPI,12430,138,11.1,9.2,13.0
+348,San Joaquin,Age 15-19,Black,6702,191,28.5,24.5,32.5
+349,San Joaquin,Age 15-19,MultRace,4150,68,16.4,12.7,20.8
+350,San Joaquin,Age 15-19,AIAN,313,0,0.0,0.0,0.0
+351,San Luis Obispo,Age 15-19,All,30894,366,11.8,10.6,13.0
+352,San Luis Obispo,Age 15-19,White,18822,109,5.8,4.7,6.9
+353,San Luis Obispo,Age 15-17,All,15791,0,0.0,0.0,0.0
+354,San Luis Obispo,Age 18-19,All,15103,273,18.1,16.0,20.2
+355,San Luis Obispo,Age 15-19,Hispanic,9263,238,25.7,22.4,29.0
+356,San Luis Obispo,Age 15-19,AsianPI,1310,0,0.0,0.0,0.0
+357,San Luis Obispo,Age 15-19,MultRace,1146,0,0.0,0.0,0.0
+358,San Luis Obispo,Age 15-19,Black,250,0,0.0,0.0,0.0
+359,San Luis Obispo,Age 15-19,AIAN,103,0,0.0,0.0,0.0
+360,San Mateo,Age 15-19,All,59276,611,10.3,9.5,11.1
+361,San Mateo,Age 15-17,All,36403,168,4.6,3.9,5.3
+362,San Mateo,Age 18-19,All,22873,443,19.4,17.6,21.2
+363,San Mateo,Age 15-19,Hispanic,20384,463,22.7,20.6,24.8
+364,San Mateo,Age 15-19,White,19732,21,1.1,0.7,1.7
+365,San Mateo,Age 15-19,AsianPI,14044,48,3.4,2.5,4.5
+366,San Mateo,Age 15-19,MultRace,3707,22,5.9,3.7,8.9
+367,San Mateo,Age 15-19,Black,1326,14,10.6,5.8,17.8
+368,San Mateo,Age 15-19,AIAN,83,0,0.0,0.0,0.0
+369,Santa Barbara,Age 15-19,All,57042,1091,19.1,18.0,20.2
+370,Santa Barbara,Age 15-19,Hispanic,29501,993,33.7,31.6,35.8
+371,Santa Barbara,Age 18-19,All,28717,748,26.0,24.1,27.9
+372,Santa Barbara,Age 15-17,All,28325,343,12.1,10.8,13.4
+373,Santa Barbara,Age 15-19,White,20855,65,3.1,2.4,4.0
+374,Santa Barbara,Age 15-19,AsianPI,3334,0,0.0,0.0,0.0
+375,Santa Barbara,Age 15-19,MultRace,2145,0,0.0,0.0,0.0
+376,Santa Barbara,Age 15-19,Black,1046,0,0.0,0.0,0.0
+377,Santa Barbara,Age 15-19,AIAN,161,0,0.0,0.0,0.0
+378,Santa Clara,Age 15-19,All,177194,1874,10.6,10.1,11.1
+379,Santa Clara,Age 15-17,All,105019,526,5.0,4.6,5.4
+380,Santa Clara,Age 18-19,All,72175,1348,18.7,17.7,19.7
+381,Santa Clara,Age 15-19,Hispanic,63335,1598,25.2,24.0,26.4
+382,Santa Clara,Age 15-19,AsianPI,54018,85,1.6,1.3,2.0
+383,Santa Clara,Age 15-19,White,46109,90,2.0,1.6,2.5
+384,Santa Clara,Age 15-19,MultRace,8956,31,3.5,2.4,5.0
+385,Santa Clara,Age 15-19,Black,4414,23,5.2,3.3,7.8
+386,Santa Clara,Age 15-19,AIAN,362,0,0.0,0.0,0.0
+387,Santa Cruz,Age 15-19,All,35743,440,12.3,11.2,13.4
+388,Santa Cruz,Age 18-19,All,18260,310,17.0,15.1,18.9
+389,Santa Cruz,Age 15-17,All,17483,130,7.4,6.1,8.7
+390,Santa Cruz,Age 15-19,White,16551,0,0.0,0.0,0.0
+391,Santa Cruz,Age 15-19,Hispanic,14779,388,26.3,23.7,28.9
+392,Santa Cruz,Age 15-19,AsianPI,2308,0,0.0,0.0,0.0
+393,Santa Cruz,Age 15-19,MultRace,1628,0,0.0,0.0,0.0
+394,Santa Cruz,Age 15-19,Black,392,0,0.0,0.0,0.0
+395,Santa Cruz,Age 15-19,AIAN,85,0,0.0,0.0,0.0
+396,Shasta,Age 15-19,All,16714,362,21.7,19.5,23.9
+397,Shasta,Age 15-19,White,12075,257,21.3,18.7,23.9
+398,Shasta,Age 15-17,All,9952,0,0.0,0.0,0.0
+399,Shasta,Age 18-19,All,6762,295,43.6,38.6,48.6
+400,Shasta,Age 15-19,Hispanic,2385,0,0.0,0.0,0.0
+401,Shasta,Age 15-19,MultRace,1064,0,0.0,0.0,0.0
+402,Shasta,Age 15-19,AIAN,495,0,0.0,0.0,0.0
+403,Shasta,Age 15-19,AsianPI,494,0,0.0,0.0,0.0
+404,Shasta,Age 15-19,Black,201,0,0.0,0.0,0.0
+405,Sierra,Age 15-19,All,207,0,0.0,0.0,0.0
+406,Sierra,Age 15-19,White,185,0,0.0,0.0,0.0
+407,Sierra,Age 15-17,All,124,0,0.0,0.0,0.0
+408,Sierra,Age 18-19,All,83,0,0.0,0.0,0.0
+409,Sierra,Age 15-19,Hispanic,22,0,0.0,0.0,0.0
+410,Sierra,Age 15-19,AIAN,0,0,0.0,0.0,0.0
+411,Sierra,Age 15-19,AsianPI,0,0,0.0,0.0,0.0
+412,Sierra,Age 15-19,Black,0,0,0.0,0.0,0.0
+413,Sierra,Age 15-19,MultRace,0,0,0.0,0.0,0.0
+414,Siskiyou,Age 15-19,All,3978,0,0.0,0.0,0.0
+415,Siskiyou,Age 15-19,White,2717,0,0.0,0.0,0.0
+416,Siskiyou,Age 15-17,All,2421,0,0.0,0.0,0.0
+417,Siskiyou,Age 18-19,All,1557,0,0.0,0.0,0.0
+418,Siskiyou,Age 15-19,Hispanic,704,0,0.0,0.0,0.0
+419,Siskiyou,Age 15-19,MultRace,282,0,0.0,0.0,0.0
+420,Siskiyou,Age 15-19,AIAN,173,0,0.0,0.0,0.0
+421,Siskiyou,Age 15-19,AsianPI,53,0,0.0,0.0,0.0
+422,Siskiyou,Age 15-19,Black,49,0,0.0,0.0,0.0
+423,Solano,Age 15-19,All,44831,671,15.0,13.9,16.1
+424,Solano,Age 15-17,All,27114,162,6.0,5.1,6.9
+425,Solano,Age 18-19,All,17717,509,28.7,26.2,31.2
+426,Solano,Age 15-19,Hispanic,15824,355,22.4,20.1,24.7
+427,Solano,Age 15-19,White,11952,100,8.4,6.8,10.0
+428,Solano,Age 15-19,Black,6969,105,15.1,12.2,18.0
+429,Solano,Age 15-19,AsianPI,5955,0,0.0,0.0,0.0
+430,Solano,Age 15-19,MultRace,4027,0,0.0,0.0,0.0
+431,Solano,Age 15-19,AIAN,104,0,0.0,0.0,0.0
+432,Sonoma,Age 15-19,All,48925,528,10.8,9.9,11.7
+433,Sonoma,Age 15-17,All,27960,143,5.1,4.3,5.9
+434,Sonoma,Age 15-19,White,25685,86,3.3,2.6,4.1
+435,Sonoma,Age 18-19,All,20965,385,18.4,16.6,20.2
+436,Sonoma,Age 15-19,Hispanic,17532,378,21.6,19.4,23.8
+437,Sonoma,Age 15-19,AsianPI,2329,0,0.0,0.0,0.0
+438,Sonoma,Age 15-19,MultRace,2223,0,0.0,0.0,0.0
+439,Sonoma,Age 15-19,Black,799,0,0.0,0.0,0.0
+440,Sonoma,Age 15-19,AIAN,357,0,0.0,0.0,0.0
+441,Stanislaus,Age 15-19,All,63697,1603,25.2,24.0,26.4
+442,Stanislaus,Age 15-17,All,35943,406,11.3,10.2,12.4
+443,Stanislaus,Age 15-19,Hispanic,35739,1104,30.9,29.1,32.7
+444,Stanislaus,Age 18-19,All,27754,1197,43.1,40.7,45.5
+445,Stanislaus,Age 15-19,White,20313,343,16.9,15.1,18.7
+446,Stanislaus,Age 15-19,AsianPI,3439,0,0.0,0.0,0.0
+447,Stanislaus,Age 15-19,MultRace,2164,0,0.0,0.0,0.0
+448,Stanislaus,Age 15-19,Black,1783,0,0.0,0.0,0.0
+449,Stanislaus,Age 15-19,AIAN,259,0,0.0,0.0,0.0
+450,Sutter,Age 15-19,All,10649,220,20.7,18.0,23.4
+451,Sutter,Age 15-17,All,6481,0,0.0,0.0,0.0
+452,Sutter,Age 15-19,White,4445,0,0.0,0.0,0.0
+453,Sutter,Age 18-19,All,4168,0,0.0,0.0,0.0
+454,Sutter,Age 15-19,Hispanic,4056,0,0.0,0.0,0.0
+455,Sutter,Age 15-19,AsianPI,1383,0,0.0,0.0,0.0
+456,Sutter,Age 15-19,MultRace,504,0,0.0,0.0,0.0
+457,Sutter,Age 15-19,Black,178,0,0.0,0.0,0.0
+458,Sutter,Age 15-19,AIAN,83,0,0.0,0.0,0.0
+459,Tehama,Age 15-19,All,6500,193,29.7,25.5,33.9
+460,Tehama,Age 15-19,White,3872,0,0.0,0.0,0.0
+461,Tehama,Age 15-17,All,3832,0,0.0,0.0,0.0
+462,Tehama,Age 18-19,All,2668,0,0.0,0.0,0.0
+463,Tehama,Age 15-19,Hispanic,2176,0,0.0,0.0,0.0
+464,Tehama,Age 15-19,MultRace,235,0,0.0,0.0,0.0
+465,Tehama,Age 15-19,AIAN,98,0,0.0,0.0,0.0
+466,Tehama,Age 15-19,AsianPI,72,0,0.0,0.0,0.0
+467,Tehama,Age 15-19,Black,47,0,0.0,0.0,0.0
+468,Trinity,Age 15-19,All,1191,0,0.0,0.0,0.0
+469,Trinity,Age 15-19,White,838,0,0.0,0.0,0.0
+470,Trinity,Age 15-17,All,660,0,0.0,0.0,0.0
+471,Trinity,Age 18-19,All,531,0,0.0,0.0,0.0
+472,Trinity,Age 15-19,Hispanic,224,0,0.0,0.0,0.0
+473,Trinity,Age 15-19,MultRace,68,0,0.0,0.0,0.0
+474,Trinity,Age 15-19,AIAN,43,0,0.0,0.0,0.0
+475,Trinity,Age 15-19,AsianPI,18,0,0.0,0.0,0.0
+476,Trinity,Age 15-19,Black,0,0,0.0,0.0,0.0
+477,Tulare,Age 15-19,All,55157,1984,36.0,34.4,37.6
+478,Tulare,Age 15-19,Hispanic,40500,1665,41.1,39.1,43.1
+479,Tulare,Age 15-17,All,34055,579,17.0,15.6,18.4
+480,Tulare,Age 18-19,All,21102,1405,66.6,63.1,70.1
+481,Tulare,Age 15-19,White,11293,227,20.1,17.5,22.7
+482,Tulare,Age 15-19,AsianPI,1511,0,0.0,0.0,0.0
+483,Tulare,Age 15-19,MultRace,825,0,0.0,0.0,0.0
+484,Tulare,Age 15-19,Black,639,0,0.0,0.0,0.0
+485,Tulare,Age 15-19,AIAN,389,0,0.0,0.0,0.0
+486,Tuolumne,Age 15-19,All,4292,0,0.0,0.0,0.0
+487,Tuolumne,Age 15-19,White,3194,0,0.0,0.0,0.0
+488,Tuolumne,Age 15-17,All,2450,0,0.0,0.0,0.0
+489,Tuolumne,Age 18-19,All,1842,0,0.0,0.0,0.0
+490,Tuolumne,Age 15-19,Hispanic,721,0,0.0,0.0,0.0
+491,Tuolumne,Age 15-19,MultRace,179,0,0.0,0.0,0.0
+492,Tuolumne,Age 15-19,AIAN,75,0,0.0,0.0,0.0
+493,Tuolumne,Age 15-19,Black,71,0,0.0,0.0,0.0
+494,Tuolumne,Age 15-19,AsianPI,52,0,0.0,0.0,0.0
+495,Ventura,Age 15-19,All,89985,1497,16.6,15.8,17.4
+496,Ventura,Age 15-17,All,52811,448,8.5,7.7,9.3
+497,Ventura,Age 15-19,Hispanic,45510,1289,28.3,26.8,29.8
+498,Ventura,Age 18-19,All,37174,1049,28.2,26.5,29.9
+499,Ventura,Age 15-19,White,34388,137,4.0,3.3,4.7
+500,Ventura,Age 15-19,AsianPI,5303,0,0.0,0.0,0.0
+501,Ventura,Age 15-19,MultRace,3367,23,6.8,4.3,10.2
+502,Ventura,Age 15-19,Black,1229,0,0.0,0.0,0.0
+503,Ventura,Age 15-19,AIAN,188,0,0.0,0.0,0.0
+504,Yolo,Age 15-19,All,30778,273,8.9,7.8,10.0
+505,Yolo,Age 18-19,All,17006,204,12.0,10.4,13.6
+506,Yolo,Age 15-17,All,13772,0,0.0,0.0,0.0
+507,Yolo,Age 15-19,White,12620,0,0.0,0.0,0.0
+508,Yolo,Age 15-19,Hispanic,11014,190,17.3,14.8,19.8
+509,Yolo,Age 15-19,AsianPI,4772,0,0.0,0.0,0.0
+510,Yolo,Age 15-19,MultRace,1563,0,0.0,0.0,0.0
+511,Yolo,Age 15-19,Black,710,0,0.0,0.0,0.0
+512,Yolo,Age 15-19,AIAN,99,0,0.0,0.0,0.0
+513,Yuba,Age 15-19,All,8125,234,28.8,25.1,32.5
+514,Yuba,Age 15-17,All,4821,0,0.0,0.0,0.0
+515,Yuba,Age 15-19,White,3681,0,0.0,0.0,0.0
+516,Yuba,Age 18-19,All,3304,0,0.0,0.0,0.0
+517,Yuba,Age 15-19,Hispanic,3072,0,0.0,0.0,0.0
+518,Yuba,Age 15-19,AsianPI,548,0,0.0,0.0,0.0
+519,Yuba,Age 15-19,MultRace,493,0,0.0,0.0,0.0
+520,Yuba,Age 15-19,Black,218,0,0.0,0.0,0.0
+521,Yuba,Age 15-19,AIAN,113,0,0.0,0.0,0.0

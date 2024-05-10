@@ -1,0 +1,60 @@
+,county,years,strata,age_group,number_of_deaths,age_adjusted_mortality_rate,comment
+0,California,2014–2016,Total population,All ages,1181.0,9.6,
+1,Alameda,2014–2016,Total population,All ages,58.0,11.2,
+2,Alpine,2014–2016,Total population,All ages,0.0,0.0,
+3,Amador,2014–2016,Total population,All ages,0.0,0.0,
+4,Butte,2014–2016,Total population,All ages,7.0,,Rate not available due to statistical instability
+5,Calaveras,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+6,Colusa,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+7,Contra Costa,2014–2016,Total population,All ages,40.0,10.6,
+8,Del Norte,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+9,El Dorado,2014–2016,Total population,All ages,7.0,,Rate not available due to statistical instability
+10,Fresno,2014–2016,Total population,All ages,39.0,14.5,
+11,Glenn,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+12,Humboldt,2014–2016,Total population,All ages,10.0,,Rate not available due to statistical instability
+13,Imperial,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+14,Inyo,2014–2016,Total population,All ages,0.0,0.0,
+15,Kern,2014–2016,Total population,All ages,22.0,9.3,
+16,Kings,2014–2016,Total population,All ages,6.0,,Rate not available due to statistical instability
+17,Lake,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+18,Lassen,2014–2016,Total population,All ages,0.0,0.0,
+19,Los Angeles,2014–2016,Total population,All ages,305.0,9.8,
+20,Madera,2014–2016,Total population,All ages,6.0,,Rate not available due to statistical instability
+21,Marin,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+22,Mariposa,2014–2016,Total population,All ages,0.0,0.0,
+23,Mendocino,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+24,Merced,2014–2016,Total population,All ages,16.0,21.6,
+25,Modoc,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+26,Mono,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+27,Monterey,2014–2016,Total population,All ages,19.0,14.2,
+28,Napa,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+29,Nevada,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+30,Orange,2014–2016,Total population,All ages,55.0,5.5,
+31,Placer,2014–2016,Total population,All ages,11.0,,Rate not available due to statistical instability
+32,Plumas,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+33,Riverside,2014–2016,Total population,All ages,61.0,8.5,
+34,Sacramento,2014–2016,Total population,All ages,66.0,14.1,
+35,San Benito,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+36,San Bernardino,2014–2016,Total population,All ages,73.0,12.5,
+37,San Diego,2014–2016,Total population,All ages,69.0,6.5,
+38,San Francisco,2014–2016,Total population,All ages,23.0,6.8,
+39,San Joaquin,2014–2016,Total population,All ages,31.0,15.4,
+40,San Luis Obispo,2014–2016,Total population,All ages,6.0,,Rate not available due to statistical instability
+41,San Mateo,2014–2016,Total population,All ages,33.0,11.2,
+42,Santa Barbara,2014–2016,Total population,All ages,6.0,,Rate not available due to statistical instability
+43,Santa Clara,2014–2016,Total population,All ages,67.0,11.1,
+44,Santa Cruz,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+45,Shasta,2014–2016,Total population,All ages,6.0,,Rate not available due to statistical instability
+46,Sierra,2014–2016,Total population,All ages,0.0,0.0,
+47,Siskiyou,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+48,Solano,2014–2016,Total population,All ages,20.0,14.4,
+49,Sonoma,2014–2016,Total population,All ages,12.0,5.9,
+50,Stanislaus,2014–2016,Total population,All ages,20.0,13.0,
+51,Sutter,2014–2016,Total population,All ages,6.0,,Rate not available due to statistical instability
+52,Tehama,2014–2016,Total population,All ages,0.0,0.0,
+53,Trinity,2014–2016,Total population,All ages,0.0,0.0,
+54,Tulare,2014–2016,Total population,All ages,15.0,12.0,
+55,Tuolumne,2014–2016,Total population,All ages,6.0,,Rate not available due to statistical instability
+56,Ventura,2014–2016,Total population,All ages,24.0,8.7,
+57,Yolo,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
+58,Yuba,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines

@@ -1,0 +1,10 @@
+,field_title,field_name,data_type,description
+0,Year,Year ,Text,Year when births occurred
+1,County of residence,County ,Text,Adolescents’ county of residents
+2,Strata,Strata,Text,General demographic category under which adolescent birth rates have been stratified by age and race/ethnicity 
+3,Strata Name,Strata_name,Text,"Individual strata within a demographic category:ALL, AsianPI (combined Asian and Pacific Islander), Black, Hispanic, MultiRace(multiple race)"
+4,Adolescent population,Population,Numeric,Population of adolescent females aged 15-19. S=Suppressed due to small cell size.
+5,Number of births,Births ,Numeric,Total number of live births to adolescent females aged 19 and below. S=Suppressed due to small cell size.
+6,Adolescent birth rate,ABR,Text,"Calculated by dividing the total births to total population and multiply by 1,000;   births to females under age 15 are added to the numerator (total number of births aged 15-19) in calculating the ABR for aged 15-19 and age group 15-17. Births and population between 1-9 were suppressed.S=Suppressed due to small cell size."
+7,Lower 95% Confidence Interval (CI),Lower,Numeric,"Lower limit of 95% confidence interval.  The 95% confidence limits depict the range within which the percentage would probably occur in 95 of 100 sets of data (if data similar to the present set were independently acquired on 100 separate occasions). In five of those 100 data sets, the percentage would fall outside the limits. S=Suppressed due to small cell size."
+8,Upper 95% Confidence Interval (CI),Upper,Numeric,"Upper limit of 95% confidence interval.  The 95% confidence limits depict the range within which the percentage would probably occur in 95 of 100 sets of data (if data similar to the present set were independently acquired on 100 separate occasions). In five of those 100 data sets, the percentage would fall outside the limits. S=Suppressed due to small cell size."

@@ -1,0 +1,8 @@
+,field_title,field_name,data_type,description
+0,County  ,COUNTY,Plain text,County of residence
+1,Years,YEARS,Plain text,3-year period during which data were collected
+2,Strata,STRATA,Plain text,General demographic category under which responses have been stratified
+3,Age group,AGE GROUP,Plain text,"All ages, 0-17 years, 18+ years"
+4,Number of deaths,NUMBER OF DEATHS,Numeric,Number of deaths due to asthma (source: Vital Statistics)
+5,Age-adjusted mortality rate,AGE-ADJUSTED MORTALITY RATE,Numeric,"Calculated by dividing the number of asthma deaths by the estimated population in that county and age group, age-adjusting to the 2000 U.S. Census, and multiplying by 1,000,000"
+6,Comment,COMMENT,Plain text,Information on data suppression. Counts less than or equal to 5 and their rates are suppressed in accordance with CHHS Data De-identification Guidelines. Rates based on counts less than 12 are suppressed due to statistical instability. 
