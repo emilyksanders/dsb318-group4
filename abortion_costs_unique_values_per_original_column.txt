@@ -1,0 +1,17 @@
+unique values per column in abortion costs (815, 5)
+
+====================
+Calendar Year
+7
+====================
+Delivery System
+2
+====================
+County
+60
+====================
+Total Expenditures
+405
+====================
+Date of Data
+1
