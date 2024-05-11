@@ -1,7 +1,6 @@
 ,county,years,strata,age_group,number_of_deaths,age_adjusted_mortality_rate,comment
 0,California,2014–2016,Total population,All ages,1181.0,9.6,
 1,Alameda,2014–2016,Total population,All ages,58.0,11.2,
-2,Alpine,2014–2016,Total population,All ages,0.0,0.0,
 3,Amador,2014–2016,Total population,All ages,0.0,0.0,
 4,Butte,2014–2016,Total population,All ages,7.0,,Rate not available due to statistical instability
 5,Calaveras,2014–2016,Total population,All ages,,,Count and rate suppressed in accordance with data de-identification guidelines
