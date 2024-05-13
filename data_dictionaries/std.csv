@@ -1,0 +1,40 @@
+column_name,format,definition
+Disease,Plain text,"The name of the sexually transmitted disease (STD) reported for the patient.  
+
+Values include:  
+Chlamydia, Gonorrhea, Early Syphilis*  
+
+* Early syphilis includes primary, secondary, and early non-primary non-secondary syphilis
+"
+County,Plain text,"The county in which the case resided when they were diagnosed.  
+
+Values include:  
+California (state-wide totals), Alameda, Alpine, Amador, Butte, Calaveras, Colusa, Contra Costa, Del Norte, El Dorado, Fresno, Glenn, Humboldt, Imperial, Inyo, Kern, Kings, Lake, Lassen, Los Angeles, Madera, Marin, Mariposa, Mendocino, Merced, Modoc, Mono, Monterey, Napa, Nevada, Orange, Placer, Plumas, Riverside, Sacramento, San Benito, San Bernardino, San Diego, San Francisco, San Joaquin, San Luis Obispo, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Shasta, Sierra, Siskiyou, Solano, Sonoma, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Ventura, Yolo, Yuba."
+Year,Number,"Year is derived from the date closest to the date the case was diagnosed.  This estimated date of diagnosis can range from the date the case was seen by the provider or the date the specimen was collected to the date the report was made to CDPH.  
+
+Values include:  years spanning 2001-2018"
+Sex,Plain text,"The patient's biological sex at birth.  Female includes persons reported as ""Female"" and, a small number of persons report as ""Female to Male Transgender"".  Male includes persons reported as ""Male"" and a small number of persons reported as ""Male to Female Transgender"".  Total includes the sum of ""Male"" and ""Female"" above as well as a very small number of persons originally coded as ""other"" or ""unknown"" or where the data element is missing.  
+
+Values include:  
+Male, Female, Total"
+Cases,Number,"The number of occurrences of each disease that meet the surveillance definition and/or inclusion criteria specific to that disease for that County, Year, Sex strata. National surveillance case definitions for these conditions can be found at http://wwwn.cdc.gov/nndss/case-definitions.html.  If blank, the number has been suppressed due to small numbers.  
+
+Values:  a number (a positive integer)"
+Population,Number,"The estimated population size (rounded to the nearest integer) for each County, Year, Sex strata.  California Department of Finance (DOF) Population Projection data (P-3 data table) were used to determine the population proportion of a particular demographic subgroup relative to the total State/County population for a given year.  These proportions were then applied to the DOF Estimate totals (E-2 data table) for the given State/County and year total, to obtain the estimates used. These data are available at http://www.dof.ca.gov/Forecasting/Demographics.  
+
+Value:  a number (a positive integer)"
+Rate,Number,"The rate of disease per 100,000 population for the corresponding County, Year, Sex strata using the standard calculation (Cases *100,000/Population).  If blank, the number has been suppressed due to small numbers.  
+
+Value:  a number (a positive real number xxx.x)"
+Lower 95% CI,Number,"The lower bound of the 95% confidence interval for the calculated rate. The confidence interval  was calculated with SAS software using the ""Exact Clopper-Pearson"" method.  If blank, the number has been suppressed due to small numbers.  
+
+Value:  a number (a positive real number xxx.x)"
+Upper 95% CI,Number,"The upper bound of the 95% confidence interval for the calculated rate, calculated as above.  If blank, the number has been suppressed due to small numbers.  
+
+Value:  a number (a positive real number xxx.x)"
+Annotation Code,Plain text,"An indicator that the calculated rate is unstable, and that conclusions about the rate and/or comparison of the rate to other rates should be made with caution.  The indictor is based on the standard calculation of the Relative Standard Error (RSE) of the rate.  Following the National Center for Health Statistics, rates are indicated to be unstable if the RSE is >= 0.30.  
+
+Values: 
+s   = case and rate data suppressed for small numbers based on Publication Scoring Criteria published in https://www.dhcs.ca.gov/dataandstats/Documents/DHCS-DDG-V2.0-120116.pdf 
+*   = (asterisk) rate is unstable 
+#   = (pound) case count is zero, so the RSE could not be calculated"
