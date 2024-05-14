@@ -1,0 +1,8 @@
+DO NOT DO DATA STUFF ON THIS SPREADSHEET,entity,Notes,Medicaid Ages 0-1,Medicaid Ages 1-5,Medicaid Ages 6-18,Separate CHIP,Pregnant Women Medicaid,Pregnant Women CHIP,Parent/Caretaker,Expansion to Adults,Separate CHIP Ages,Parent/Caretaker Income Standard
+2015 row 1,California,Separate CHIP in California covers certain children under age 2 statewide and covers children under age 19 in three counties only.,322%,142%,133%,266%,208%,322%,,138%,<19,
+2015 row 2,san mateo county,,,,,322%,,,,,<19,
+2015 row 3,santa clara county,,,,,322%,,,,,<19,
+2015 row 4,san francisco county,,,,,322%,,,,,<19,
+source,duh,https://data.world/us-hhs-gov/b557504a-fbf8-451a-8c19-06784021723b,https://med.stanford.edu/content/dam/sm/cpop/documents/PDF-TwoYearsCHIPFunding.pdf,https://med.stanford.edu/content/dam/sm/cpop/documents/PDF-TwoYearsCHIPFunding.pdf,https://med.stanford.edu/content/dam/sm/cpop/documents/PDF-TwoYearsCHIPFunding.pdf,https://med.stanford.edu/content/dam/sm/cpop/documents/PDF-TwoYearsCHIPFunding.pdf,https://med.stanford.edu/content/dam/sm/cpop/documents/PDF-TwoYearsCHIPFunding.pdf,https://med.stanford.edu/content/dam/sm/cpop/documents/PDF-TwoYearsCHIPFunding.pdf,,https://web.archive.org/web/20150106234953/https://www.dhcs.ca.gov/services/medi-cal/Pages/DoYouQualifyForMedi-Cal.aspx,,
+dtype (ish),NA,NA,MAGI as % of FPL,MAGI as % of FPL,MAGI as % of FPL,MAGI as % of FPL,MAGI as % of FPL,probably NA,MAGI as % of FPL,MAGI as % of FPL,ages,"string, 'FPL' or 'Dollars'"
+2018 values,California,Separate CHIP in California covers certain children under age 2 statewide and covers children under age 19 in three counties only.,261%,261%,261%,317%,208%,N/A,109%,133%,,FPL
