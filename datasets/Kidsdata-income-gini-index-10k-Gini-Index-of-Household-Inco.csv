@@ -1,0 +1,57 @@
+FIPSCode,LocationType,Location,TimeFrame,DataFormat,Data
+6001,County,Alameda County,2015_2019,Gini Coefficient,0.4616
+6005,County,Amador County,2015_2019,Gini Coefficient,S
+6007,County,Butte County,2015_2019,Gini Coefficient,0.4944
+6009,County,Calaveras County,2015_2019,Gini Coefficient,0.4414
+6,State,California,2015_2019,Gini Coefficient,0.4886
+6011,County,Colusa County,2015_2019,Gini Coefficient,S
+6013,County,Contra Costa County,2015_2019,Gini Coefficient,0.4672
+6015,County,Del Norte County,2015_2019,Gini Coefficient,S
+6017,County,El Dorado County,2015_2019,Gini Coefficient,0.4556
+6019,County,Fresno County,2015_2019,Gini Coefficient,0.4746
+6021,County,Glenn County,2015_2019,Gini Coefficient,0.4442
+6023,County,Humboldt County,2015_2019,Gini Coefficient,0.4841
+6025,County,Imperial County,2015_2019,Gini Coefficient,0.4704
+6027,County,Inyo County,2015_2019,Gini Coefficient,S
+6029,County,Kern County,2015_2019,Gini Coefficient,0.4668
+6031,County,Kings County,2015_2019,Gini Coefficient,0.4272
+6033,County,Lake County,2015_2019,Gini Coefficient,S
+6035,County,Lassen County,2015_2019,Gini Coefficient,0.4171
+6037,County,Los Angeles County,2015_2019,Gini Coefficient,0.5002
+6039,County,Madera County,2015_2019,Gini Coefficient,0.4422
+6041,County,Marin County,2015_2019,Gini Coefficient,0.5178
+6043,County,Mariposa County,2015_2019,Gini Coefficient,0.4234
+6045,County,Mendocino County,2015_2019,Gini Coefficient,0.4704
+6047,County,Merced County,2015_2019,Gini Coefficient,0.4719
+6051,County,Mono County,2015_2019,Gini Coefficient,S
+6053,County,Monterey County,2015_2019,Gini Coefficient,0.457
+6055,County,Napa County,2015_2019,Gini Coefficient,0.4712
+6057,County,Nevada County,2015_2019,Gini Coefficient,0.4697
+6059,County,Orange County,2015_2019,Gini Coefficient,0.4685
+6061,County,Placer County,2015_2019,Gini Coefficient,0.4467
+6063,County,Plumas County,2015_2019,Gini Coefficient,S
+6065,County,Riverside County,2015_2019,Gini Coefficient,0.4572
+6067,County,Sacramento County,2015_2019,Gini Coefficient,0.4538
+6069,County,San Benito County,2015_2019,Gini Coefficient,0.4054
+6071,County,San Bernardino County,2015_2019,Gini Coefficient,0.4375
+6073,County,San Diego County,2015_2019,Gini Coefficient,0.4627
+6075,County,San Francisco County,2015_2019,Gini Coefficient,0.5099
+6077,County,San Joaquin County,2015_2019,Gini Coefficient,0.4529
+6079,County,San Luis Obispo County,2015_2019,Gini Coefficient,0.4496
+6081,County,San Mateo County,2015_2019,Gini Coefficient,0.4849
+6083,County,Santa Barbara County,2015_2019,Gini Coefficient,0.4815
+6085,County,Santa Clara County,2015_2019,Gini Coefficient,0.4664
+6087,County,Santa Cruz County,2015_2019,Gini Coefficient,0.4819
+6089,County,Shasta County,2015_2019,Gini Coefficient,0.4588
+6093,County,Siskiyou County,2015_2019,Gini Coefficient,S
+6095,County,Solano County,2015_2019,Gini Coefficient,0.4207
+6097,County,Sonoma County,2015_2019,Gini Coefficient,0.4536
+6099,County,Stanislaus County,2015_2019,Gini Coefficient,0.4396
+6101,County,Sutter County,2015_2019,Gini Coefficient,0.453
+6103,County,Tehama County,2015_2019,Gini Coefficient,0.4656
+6105,County,Trinity County,2015_2019,Gini Coefficient,S
+6107,County,Tulare County,2015_2019,Gini Coefficient,0.4728
+6109,County,Tuolumne County,2015_2019,Gini Coefficient,S
+6111,County,Ventura County,2015_2019,Gini Coefficient,0.4455
+6113,County,Yolo County,2015_2019,Gini Coefficient,0.4928
+6115,County,Yuba County,2015_2019,Gini Coefficient,0.426
