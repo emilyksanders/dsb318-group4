@@ -1,0 +1,4 @@
+field_title,field_name,data_type,description
+Number of deaths,NUMBER OF DEATHS,Numeric,Number of deaths due to asthma (source: Vital Statistics)
+Age-adjusted mortality rate,AGE-ADJUSTED MORTALITY RATE,Numeric,"Calculated by dividing the number of asthma deaths by the estimated population in that county and age group, age-adjusting to the 2000 U.S. Census, and multiplying by 1,000,000"
+Comment,COMMENT,Plain text,Information on data suppression. Counts less than or equal to 5 and their rates are suppressed in accordance with CHHS Data De-identification Guidelines. Rates based on counts less than 12 are suppressed due to statistical instability. 
