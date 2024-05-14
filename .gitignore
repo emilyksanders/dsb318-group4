@@ -1,6 +1,8 @@
 ## My stuff just for DSB-318##
 ## Emily K. Sanders ##
 
+ignore/
+
 # R Studio
 *.R
 *.Rhistory
