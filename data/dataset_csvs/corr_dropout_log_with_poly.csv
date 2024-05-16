@@ -1,0 +1,433 @@
+,Unnamed: 0,dropout_log,abs corr
+38,dropout_log,1,1
+0,dropout_log,1,1
+2,abortion_rs_count_total_suppressed,-0.929734026,0.929734026
+370,abortion_rs_count_total_suppressed daycare_slots_child_pct_nonwhite,-0.929734026,0.929734026
+371,abortion_rs_count_total_suppressed gini_coef,-0.929734026,0.929734026
+372,abortion_rs_count_total_suppressed graduation_2019_cohort_size,-0.929734026,0.929734026
+373,abortion_rs_count_total_suppressed daycare_slots_infant_total_pop,-0.929734026,0.929734026
+374,abortion_rs_count_total_suppressed medicaid_sum_0_20,-0.929734026,0.929734026
+375,abortion_rs_count_total_suppressed povr_whole_total_estimate,-0.929734026,0.929734026
+376,abortion_rs_count_total_suppressed unemployment_rate,-0.929734026,0.929734026
+377,abortion_rs_count_total_suppressed daycare_slots_child_rate_slots,-0.929734026,0.929734026
+378,abortion_rs_count_total_suppressed daycare_slots_child_num_facility,-0.929734026,0.929734026
+379,abortion_rs_count_total_suppressed daycare_slots_child_facility_capacity,-0.929734026,0.929734026
+380,std_chlamydia_supressed std_gonorrhea_supressed,-0.929734026,0.929734026
+381,abortion_rs_count_total_suppressed ecigs_sold_pct_tobacco_stores_2013,-0.929734026,0.929734026
+382,abortion_rs_count_total_suppressed^2,-0.929734026,0.929734026
+383,abortion_rs_count_total_suppressed std_chlamydia_supressed,-0.929734026,0.929734026
+384,abortion_rs_count_total_suppressed std_gonorrhea_supressed,-0.929734026,0.929734026
+385,abortion_rs_count_total_suppressed std_population,-0.929734026,0.929734026
+386,abortion_rs_count_total_suppressed,-0.929734026,0.929734026
+387,abortion_medicaid_expenditures abortion_rs_count_total_suppressed,-0.929734026,0.929734026
+388,abortion_rs_count_total_suppressed std_chlamydia_rate,-0.929734026,0.929734026
+389,abortion_rs_count_total_suppressed std_gonorrhea_rate,-0.929734026,0.929734026
+390,std_chlamydia_supressed std_gonorrhea_rate,-0.929734026,0.929734026
+391,abortion_rs_count_total_suppressed daycare_slots_child_total_pop,-0.929734026,0.929734026
+392,abortion_rs_count_total_suppressed daycare_slots_infant_pct_nonwhite,-0.929734026,0.929734026
+35,dropout_quar_rt,0.877771858,0.877771858
+369,ecigs_sold_pct_tobacco_stores_2013 std_chlamydia_supressed,-0.839006903,0.839006903
+36,dropout_3rd_rt,0.796006135,0.796006135
+368,std_gonorrhea_rate std_gonorrhea_supressed,-0.743554646,0.743554646
+367,std_chlamydia_supressed unemployment_rate,-0.685521246,0.685521246
+24,std_chlamydia_supressed,-0.680299038,0.680299038
+364,abortion_medicaid_expenditures std_chlamydia_supressed,-0.680299038,0.680299038
+365,std_chlamydia_supressed^2,-0.680299038,0.680299038
+366,std_chlamydia_supressed,-0.680299038,0.680299038
+363,std_chlamydia_supressed gini_coef,-0.678558936,0.678558936
+34,dropout_sqrt,0.667586347,0.667586347
+362,std_chlamydia_rate std_chlamydia_supressed,-0.64756234,0.64756234
+361,daycare_slots_infant_pct_nonwhite std_chlamydia_supressed,-0.644331844,0.644331844
+1,ecigs_sold_pct_tobacco_stores_2016 gini_coef,0.562193585,0.562193585
+360,povr_whole_total_estimate std_chlamydia_supressed,-0.548801069,0.548801069
+359,daycare_slots_child_rate_slots std_chlamydia_supressed,-0.545712408,0.545712408
+15,ecigs_sold_pct_tobacco_stores_2016,0.542634959,0.542634959
+2,ecigs_sold_pct_tobacco_stores_2016,0.542634959,0.542634959
+358,daycare_slots_child_pct_nonwhite std_chlamydia_supressed,-0.507214194,0.507214194
+37,dropout_not_zero,0.469083767,0.469083767
+14,dropout_rate_2019_cohort,0.469083767,0.469083767
+3,dropout_rate_2019_cohort,0.469083767,0.469083767
+4,ecigs_sold_pct_tobacco_stores_2016 povr_whole_total_estimate,0.411465287,0.411465287
+5,ecigs_sold_pct_tobacco_stores_2016 std_chlamydia_rate,0.352705733,0.352705733
+6,daycare_slots_child_rate_slots ecigs_sold_pct_tobacco_stores_2016,0.339328624,0.339328624
+7,daycare_slots_infant_pct_nonwhite ecigs_sold_pct_tobacco_stores_2016,0.338055966,0.338055966
+8,daycare_slots_child_pct_nonwhite ecigs_sold_pct_tobacco_stores_2016,0.337484032,0.337484032
+23,std_chlamydia_rate,0.331582061,0.331582061
+9,std_chlamydia_rate,0.331582061,0.331582061
+10,std_chlamydia_rate sui_adjusted_rate_avg,0.331393935,0.331393935
+11,std_chlamydia_rate gini_coef,0.32410238,0.32410238
+12,ecigs_sold_pct_tobacco_stores_2016^2,0.318403048,0.318403048
+357,std_chlamydia_supressed std_population,-0.31646663,0.31646663
+356,std_gonorrhea_supressed gini_coef,-0.297514219,0.297514219
+355,std_gonorrhea_supressed unemployment_rate,-0.295205864,0.295205864
+20,asthma_age_adjusted_mortality_rate,0.292817957,0.292817957
+26,std_gonorrhea_supressed,-0.291205564,0.291205564
+353,std_gonorrhea_supressed,-0.291205564,0.291205564
+354,std_gonorrhea_supressed^2,-0.291205564,0.291205564
+13,daycare_slots_infant_pct_nonwhite sui_adjusted_rate_avg,0.290834723,0.290834723
+14,daycare_slots_child_pct_nonwhite sui_adjusted_rate_avg,0.288916456,0.288916456
+352,daycare_slots_infant_total_pop std_chlamydia_supressed,-0.283277976,0.283277976
+15,povr_whole_total_estimate std_chlamydia_rate,0.281150523,0.281150523
+16,ecigs_sold_pct_tobacco_stores_2016 unemployment_rate,0.278529784,0.278529784
+17,daycare_slots_child_pct_nonwhite gini_coef,0.269589135,0.269589135
+7,daycare_slots_child_pct_nonwhite,0.266136977,0.266136977
+18,daycare_slots_child_pct_nonwhite,0.266136977,0.266136977
+19,daycare_slots_child_pct_nonwhite std_chlamydia_rate,0.260910199,0.260910199
+20,daycare_slots_child_rate_slots std_chlamydia_rate,0.256127471,0.256127471
+21,daycare_slots_infant_pct_nonwhite std_chlamydia_rate,0.255530024,0.255530024
+351,daycare_slots_child_total_pop std_chlamydia_supressed,-0.254591069,0.254591069
+350,graduation_2019_cohort_size std_chlamydia_supressed,-0.249561366,0.249561366
+22,ecigs_sold_pct_tobacco_stores_2016 std_gonorrhea_rate,0.248055189,0.248055189
+23,std_chlamydia_rate^2,0.246042859,0.246042859
+349,povr_whole_total_estimate std_gonorrhea_supressed,-0.244968069,0.244968069
+24,daycare_slots_child_rate_slots daycare_slots_child_pct_nonwhite,0.243909564,0.243909564
+25,ecigs_sold_pct_tobacco_stores_2013 std_chlamydia_rate,0.242394649,0.242394649
+26,daycare_slots_child_rate_slots sui_adjusted_rate_avg,0.241144272,0.241144272
+348,daycare_slots_child_rate_slots std_gonorrhea_supressed,-0.239756155,0.239756155
+347,std_chlamydia_supressed medicaid_sum_0_20,-0.2335957,0.2335957
+27,ecigs_sold_pct_tobacco_stores_2016 sui_adjusted_rate_avg,0.233063534,0.233063534
+28,daycare_slots_infant_pct_nonwhite gini_coef,0.22703141,0.22703141
+29,daycare_slots_child_pct_nonwhite povr_whole_total_estimate,0.225592057,0.225592057
+12,daycare_slots_infant_pct_nonwhite,0.223821787,0.223821787
+30,daycare_slots_infant_pct_nonwhite,0.223821787,0.223821787
+31,ecigs_sold_pct_tobacco_stores_2016 ecigs_sold_pct_tobacco_stores_2013,0.218113212,0.218113212
+32,std_gonorrhea_rate sui_adjusted_rate_avg,0.216425236,0.216425236
+33,daycare_slots_child_pct_nonwhite^2,0.213745865,0.213745865
+34,daycare_slots_child_rate_slots daycare_slots_infant_pct_nonwhite,0.206310313,0.206310313
+35,povr_whole_total_estimate sui_adjusted_rate_avg,0.205719352,0.205719352
+36,daycare_slots_child_pct_nonwhite daycare_slots_infant_pct_nonwhite,0.204371169,0.204371169
+30,sui_adjusted_rate_avg,0.20377213,0.20377213
+37,sui_adjusted_rate_avg,0.20377213,0.20377213
+38,sui_adjusted_rate_avg gini_coef,0.202926471,0.202926471
+39,ecigs_sold_pct_tobacco_stores_2013 povr_whole_total_estimate,0.202253721,0.202253721
+40,daycare_slots_infant_pct_nonwhite povr_whole_total_estimate,0.201109865,0.201109865
+41,std_chlamydia_rate unemployment_rate,0.200615468,0.200615468
+42,daycare_slots_infant_pct_nonwhite^2,0.192070782,0.192070782
+43,daycare_slots_child_pct_nonwhite ecigs_sold_pct_tobacco_stores_2013,0.191693085,0.191693085
+44,ecigs_sold_pct_tobacco_stores_2013 sui_adjusted_rate_avg,0.187276691,0.187276691
+346,daycare_slots_child_facility_capacity std_chlamydia_supressed,-0.182781537,0.182781537
+45,infant_mortality_rate std_gonorrhea_rate,0.182282939,0.182282939
+46,daycare_slots_child_pct_nonwhite std_gonorrhea_rate,0.181932753,0.181932753
+47,daycare_slots_infant_pct_nonwhite ecigs_sold_pct_tobacco_stores_2013,0.180388589,0.180388589
+48,std_chlamydia_rate std_gonorrhea_rate,0.179757574,0.179757574
+49,infant_mortality_rate std_chlamydia_rate,0.173451288,0.173451288
+50,ecigs_sold_pct_tobacco_stores_2016 std_syphilis_rate,0.171128326,0.171128326
+51,povr_whole_total_estimate asthma_surpressed,0.171006272,0.171006272
+52,povr_whole_total_estimate std_syphilis_rate,0.169940081,0.169940081
+53,daycare_slots_infant_pct_nonwhite std_syphilis_rate,0.169303386,0.169303386
+54,ecigs_sold_pct_tobacco_stores_2013 gini_coef,0.167290298,0.167290298
+55,daycare_slots_child_pct_nonwhite std_syphilis_rate,0.167125246,0.167125246
+56,daycare_slots_infant_pct_nonwhite std_gonorrhea_rate,0.16674603,0.16674603
+57,asthma_surpressed std_chlamydia_rate,0.165837153,0.165837153
+58,infant_mortality_rate std_syphilis_rate,0.165475423,0.165475423
+28,std_syphilis_rate,0.164682849,0.164682849
+59,std_syphilis_rate,0.164682849,0.164682849
+60,daycare_slots_child_rate_slots adolescent_birth_abr,0.16299342,0.16299342
+61,ecigs_sold_pct_tobacco_stores_2013 std_syphilis_rate,0.162892397,0.162892397
+16,ecigs_sold_pct_tobacco_stores_2013,0.162322199,0.162322199
+62,ecigs_sold_pct_tobacco_stores_2013,0.162322199,0.162322199
+63,std_syphilis_rate gini_coef,0.162000351,0.162000351
+64,daycare_slots_child_pct_nonwhite infant_mortality_rate,0.1614306,0.1614306
+21,asthma_surpressed,0.160677939,0.160677939
+65,asthma_surpressed,0.160677939,0.160677939
+66,asthma_surpressed^2,0.160677939,0.160677939
+67,asthma_surpressed gini_coef,0.159996966,0.159996966
+68,sui_adjusted_rate_avg unemployment_rate,0.159902219,0.159902219
+69,daycare_slots_infant_pct_nonwhite infant_mortality_rate,0.159550129,0.159550129
+70,std_syphilis_rate unemployment_rate,0.159169446,0.159169446
+71,ecigs_sold_pct_tobacco_stores_2013 std_gonorrhea_rate,0.157135215,0.157135215
+72,adolescent_birth_abr std_gonorrhea_rate,0.156499244,0.156499244
+345,daycare_slots_child_num_facility std_chlamydia_supressed,-0.155360015,0.155360015
+73,infant_mortality_rate gini_coef,0.155012926,0.155012926
+22,infant_mortality_rate,0.154088375,0.154088375
+74,infant_mortality_rate,0.154088375,0.154088375
+344,ecigs_sold_pct_tobacco_stores_2013 std_gonorrhea_supressed,-0.152740382,0.152740382
+75,daycare_slots_child_rate_slots povr_whole_total_estimate,0.152506623,0.152506623
+76,adolescent_birth_abr std_chlamydia_rate,0.152236789,0.152236789
+77,std_chlamydia_rate std_syphilis_rate,0.151533772,0.151533772
+78,povr_whole_total_estimate infant_mortality_rate,0.14900478,0.14900478
+79,daycare_slots_child_rate_slots infant_mortality_rate,0.147675191,0.147675191
+80,daycare_slots_infant_pct_nonwhite asthma_surpressed,0.146853015,0.146853015
+81,adolescent_birth_abr gini_coef,0.146045355,0.146045355
+82,daycare_slots_child_rate_slots std_syphilis_rate,0.145854375,0.145854375
+83,adolescent_birth_abr std_syphilis_rate,0.145589333,0.145589333
+84,daycare_slots_child_pct_nonwhite asthma_surpressed,0.14441494,0.14441494
+18,adolescent_birth_abr,0.144195252,0.144195252
+85,adolescent_birth_abr,0.144195252,0.144195252
+86,ecigs_sold_pct_tobacco_stores_2016 asthma_surpressed,0.142339318,0.142339318
+87,infant_mortality_rate unemployment_rate,0.142263713,0.142263713
+88,asthma_surpressed unemployment_rate,0.141009865,0.141009865
+89,povr_whole_total_estimate gini_coef,0.14044488,0.14044488
+90,asthma_surpressed sui_adjusted_rate_avg,0.139331166,0.139331166
+91,povr_whole_total_estimate^2,0.138255116,0.138255116
+92,ecigs_sold_pct_tobacco_stores_2016 adolescent_birth_abr,0.137680827,0.137680827
+17,povr_whole_total_estimate,0.137645094,0.137645094
+93,povr_whole_total_estimate,0.137645094,0.137645094
+94,std_gonorrhea_rate std_syphilis_rate,0.13663849,0.13663849
+95,adolescent_birth_abr infant_mortality_rate,0.135848576,0.135848576
+96,ecigs_sold_pct_tobacco_stores_2013 asthma_surpressed,0.135718798,0.135718798
+97,ecigs_sold_pct_tobacco_stores_2016 infant_mortality_rate,0.135155151,0.135155151
+98,adolescent_birth_abr sui_adjusted_rate_avg,0.135138277,0.135138277
+99,std_gonorrhea_rate^2,0.134524091,0.134524091
+100,daycare_slots_child_pct_nonwhite adolescent_birth_abr,0.132122238,0.132122238
+101,std_syphilis_rate^2,0.131518844,0.131518844
+102,infant_mortality_rate^2,0.131424215,0.131424215
+103,daycare_slots_infant_pct_nonwhite adolescent_birth_abr,0.131070676,0.131070676
+104,povr_whole_total_estimate adolescent_birth_abr,0.130337728,0.130337728
+105,std_syphilis_rate sui_adjusted_rate_avg,0.128692061,0.128692061
+106,asthma_surpressed std_gonorrhea_rate,0.12775056,0.12775056
+107,ecigs_sold_pct_tobacco_stores_2013 adolescent_birth_abr,0.127742484,0.127742484
+108,ecigs_sold_pct_tobacco_stores_2013 infant_mortality_rate,0.126009444,0.126009444
+109,infant_mortality_rate sui_adjusted_rate_avg,0.125262981,0.125262981
+110,ecigs_sold_pct_tobacco_stores_2013^2,0.1246335,0.1246335
+111,povr_whole_total_estimate std_gonorrhea_rate,0.124223067,0.124223067
+112,daycare_slots_child_rate_slots asthma_surpressed,0.121678995,0.121678995
+113,daycare_slots_child_pct_nonwhite unemployment_rate,0.118945196,0.118945196
+114,daycare_slots_child_rate_slots ecigs_sold_pct_tobacco_stores_2013,0.118494381,0.118494381
+343,abortion_medicaid_expenditures std_gonorrhea_supressed,-0.115509464,0.115509464
+115,adolescent_birth_abr^2,0.114834051,0.114834051
+116,graduation_2019_cohort_size std_gonorrhea_supressed,0.111291825,0.111291825
+19,asthma_number_of_deaths,0.108742869,0.108742869
+342,daycare_slots_infant_pct_nonwhite std_gonorrhea_supressed,-0.108155277,0.108155277
+117,daycare_slots_child_rate_slots std_gonorrhea_rate,0.106139235,0.106139235
+118,adolescent_birth_abr unemployment_rate,0.10602679,0.10602679
+119,std_gonorrhea_rate gini_coef,0.104412541,0.104412541
+120,adolescent_birth_abr asthma_surpressed,0.104100705,0.104100705
+25,std_gonorrhea_rate,0.099513622,0.099513622
+121,std_gonorrhea_rate,0.099513622,0.099513622
+122,ecigs_sold_pct_tobacco_stores_2013 unemployment_rate,0.099458328,0.099458328
+123,daycare_slots_infant_pct_nonwhite unemployment_rate,0.095949699,0.095949699
+124,asthma_surpressed std_syphilis_supressed,0.094911401,0.094911401
+125,asthma_surpressed medicaid_sum_0_20,0.093467042,0.093467042
+126,sui_adjusted_rate_avg^2,0.090171339,0.090171339
+127,daycare_slots_child_num_facility std_syphilis_rate,0.086814743,0.086814743
+128,asthma_surpressed infant_mortality_rate,0.085842766,0.085842766
+129,asthma_surpressed std_syphilis_rate,0.085093775,0.085093775
+130,asthma_surpressed std_gonorrhea_supressed,0.083442913,0.083442913
+131,daycare_slots_child_num_facility std_gonorrhea_rate,0.080416494,0.080416494
+132,graduation_2019_cohort_size asthma_surpressed,0.079225198,0.079225198
+133,daycare_slots_child_facility_capacity std_syphilis_rate,0.078000532,0.078000532
+134,std_population std_syphilis_rate,0.076790429,0.076790429
+135,graduation_2019_cohort_size std_syphilis_supressed,0.073899872,0.073899872
+136,ecigs_sold_pct_tobacco_stores_2016 std_gonorrhea_supressed,0.073794363,0.073794363
+137,std_gonorrhea_rate std_population,0.071769164,0.071769164
+138,daycare_slots_infant_total_pop asthma_surpressed,0.071689877,0.071689877
+139,daycare_slots_child_facility_capacity std_gonorrhea_rate,0.071467747,0.071467747
+10,daycare_slots_infant_rate_slots,0.069518072,0.069518072
+140,daycare_slots_child_total_pop asthma_surpressed,0.067945255,0.067945255
+141,abortion_medicaid_expenditures std_syphilis_rate,0.067492534,0.067492534
+142,daycare_slots_infant_total_pop std_syphilis_rate,0.066781406,0.066781406
+143,daycare_slots_infant_total_pop std_gonorrhea_rate,0.064626233,0.064626233
+144,daycare_slots_child_num_facility std_chlamydia_rate,0.064499789,0.064499789
+145,abortion_medicaid_expenditures std_gonorrhea_rate,0.063431799,0.063431799
+146,daycare_slots_child_total_pop std_syphilis_rate,0.063382029,0.063382029
+147,daycare_slots_child_num_facility sui_adjusted_rate_avg,0.063121318,0.063121318
+148,graduation_2019_cohort_size std_syphilis_rate,0.062581762,0.062581762
+149,asthma_surpressed std_population,0.062120949,0.062120949
+150,daycare_slots_child_total_pop std_gonorrhea_rate,0.062042329,0.062042329
+151,graduation_2019_cohort_size std_gonorrhea_rate,0.061746585,0.061746585
+341,daycare_slots_child_rate_slots unemployment_rate,-0.060391087,0.060391087
+152,daycare_slots_child_num_facility asthma_surpressed,0.059006758,0.059006758
+153,std_gonorrhea_rate medicaid_sum_0_20,0.058868311,0.058868311
+154,daycare_slots_child_rate_slots daycare_slots_child_num_facility,0.058711133,0.058711133
+155,std_syphilis_rate medicaid_sum_0_20,0.058479895,0.058479895
+156,daycare_slots_child_num_facility unemployment_rate,0.057825689,0.057825689
+157,abortion_medicaid_expenditures asthma_surpressed,0.057190165,0.057190165
+158,daycare_slots_child_num_facility infant_mortality_rate,0.057072499,0.057072499
+159,std_chlamydia_rate std_population,0.056931914,0.056931914
+160,daycare_slots_child_facility_capacity std_chlamydia_rate,0.05624439,0.05624439
+161,daycare_slots_child_rate_slots^2,0.056204436,0.056204436
+162,daycare_slots_child_num_facility adolescent_birth_abr,0.055866126,0.055866126
+163,daycare_slots_child_num_facility povr_whole_total_estimate,0.055667295,0.055667295
+340,daycare_slots_child_pct_nonwhite std_gonorrhea_supressed,-0.054996056,0.054996056
+6,daycare_slots_child_num_facility,0.054856588,0.054856588
+164,daycare_slots_child_num_facility,0.054856588,0.054856588
+165,daycare_slots_child_num_facility gini_coef,0.054843959,0.054843959
+166,daycare_slots_infant_total_pop std_chlamydia_rate,0.053928244,0.053928244
+167,abortion_medicaid_expenditures std_chlamydia_rate,0.053406392,0.053406392
+168,abortion_medicaid_expenditures sui_adjusted_rate_avg,0.05337331,0.05337331
+169,daycare_slots_child_num_facility daycare_slots_child_pct_nonwhite,0.052578984,0.052578984
+170,sui_adjusted_rate_avg medicaid_sum_0_20,0.052449254,0.052449254
+171,daycare_slots_child_total_pop std_chlamydia_rate,0.052239741,0.052239741
+172,graduation_2019_cohort_size std_chlamydia_rate,0.052057212,0.052057212
+173,std_population sui_adjusted_rate_avg,0.052022291,0.052022291
+174,unemployment_rate medicaid_sum_0_20,0.051822227,0.051822227
+175,std_chlamydia_rate medicaid_sum_0_20,0.051727659,0.051727659
+176,daycare_slots_child_num_facility daycare_slots_infant_pct_nonwhite,0.051684542,0.051684542
+177,daycare_slots_child_num_facility ecigs_sold_pct_tobacco_stores_2016,0.05164706,0.05164706
+178,daycare_slots_child_rate_slots std_population,0.051482375,0.051482375
+179,graduation_2019_cohort_size unemployment_rate,0.051236017,0.051236017
+180,graduation_2019_cohort_size sui_adjusted_rate_avg,0.051099708,0.051099708
+181,daycare_slots_infant_total_pop sui_adjusted_rate_avg,0.051071719,0.051071719
+182,adolescent_birth_abr medicaid_sum_0_20,0.050993978,0.050993978
+183,daycare_slots_infant_total_pop unemployment_rate,0.05095978,0.05095978
+184,infant_mortality_rate medicaid_sum_0_20,0.050906778,0.050906778
+185,abortion_medicaid_expenditures infant_mortality_rate,0.050836148,0.050836148
+186,daycare_slots_infant_total_pop infant_mortality_rate,0.050759185,0.050759185
+187,daycare_slots_child_facility_capacity daycare_slots_child_rate_slots,0.050355129,0.050355129
+188,infant_mortality_rate std_population,0.050252902,0.050252902
+189,std_population unemployment_rate,0.050223389,0.050223389
+190,daycare_slots_child_facility_capacity sui_adjusted_rate_avg,0.050083199,0.050083199
+191,daycare_slots_child_total_pop unemployment_rate,0.050031856,0.050031856
+192,daycare_slots_infant_total_pop adolescent_birth_abr,0.049993641,0.049993641
+193,daycare_slots_child_total_pop infant_mortality_rate,0.049667519,0.049667519
+194,abortion_medicaid_expenditures daycare_slots_child_rate_slots,0.049458269,0.049458269
+195,daycare_slots_child_total_pop sui_adjusted_rate_avg,0.049281361,0.049281361
+196,daycare_slots_child_facility_capacity infant_mortality_rate,0.049272386,0.049272386
+197,daycare_slots_child_total_pop adolescent_birth_abr,0.049094188,0.049094188
+198,daycare_slots_child_facility_capacity unemployment_rate,0.049044129,0.049044129
+199,abortion_medicaid_expenditures adolescent_birth_abr,0.049015181,0.049015181
+200,adolescent_birth_abr std_population,0.048769171,0.048769171
+201,povr_whole_total_estimate medicaid_sum_0_20,0.048467285,0.048467285
+202,std_syphilis_supressed medicaid_sum_0_20,0.048408737,0.048408737
+203,daycare_slots_child_rate_slots daycare_slots_infant_total_pop,0.048349254,0.048349254
+204,povr_whole_total_estimate std_population,0.048328259,0.048328259
+205,graduation_2019_cohort_size infant_mortality_rate,0.048287031,0.048287031
+206,abortion_medicaid_expenditures unemployment_rate,0.048264884,0.048264884
+207,daycare_slots_infant_total_pop povr_whole_total_estimate,0.048250511,0.048250511
+208,graduation_2019_cohort_size adolescent_birth_abr,0.047999086,0.047999086
+209,daycare_slots_child_facility_capacity adolescent_birth_abr,0.047854869,0.047854869
+210,graduation_2019_cohort_size povr_whole_total_estimate,0.047821831,0.047821831
+211,daycare_slots_child_facility_capacity povr_whole_total_estimate,0.047480683,0.047480683
+212,abortion_medicaid_expenditures povr_whole_total_estimate,0.047467144,0.047467144
+213,std_population gini_coef,0.047437425,0.047437425
+214,daycare_slots_child_total_pop povr_whole_total_estimate,0.047203349,0.047203349
+0,abortion_medicaid_expenditures,0.047174225,0.047174225
+215,abortion_medicaid_expenditures,0.047174225,0.047174225
+27,std_population,0.047111196,0.047111196
+216,std_population,0.047111196,0.047111196
+217,daycare_slots_child_rate_slots medicaid_sum_0_20,0.046946791,0.046946791
+218,abortion_medicaid_expenditures gini_coef,0.046878271,0.046878271
+219,daycare_slots_child_rate_slots graduation_2019_cohort_size,0.046688352,0.046688352
+220,abortion_medicaid_expenditures ecigs_sold_pct_tobacco_stores_2016,0.046631302,0.046631302
+221,daycare_slots_child_facility_capacity gini_coef,0.046586592,0.046586592
+222,daycare_slots_infant_total_pop gini_coef,0.046320813,0.046320813
+9,daycare_slots_infant_total_pop,0.046266934,0.046266934
+223,daycare_slots_infant_total_pop,0.046266934,0.046266934
+3,daycare_slots_child_facility_capacity,0.046239159,0.046239159
+224,daycare_slots_child_total_pop daycare_slots_child_rate_slots,0.046239159,0.046239159
+225,daycare_slots_child_facility_capacity,0.046239159,0.046239159
+32,medicaid_sum_0_20,0.046198839,0.046198839
+226,medicaid_sum_0_20,0.046198839,0.046198839
+227,std_chlamydia_rate std_syphilis_supressed,0.046156041,0.046156041
+228,medicaid_sum_0_20 gini_coef,0.046031135,0.046031135
+229,daycare_slots_child_pct_nonwhite std_population,0.045804612,0.045804612
+230,abortion_medicaid_expenditures daycare_slots_child_pct_nonwhite,0.045552305,0.045552305
+231,abortion_medicaid_expenditures std_syphilis_supressed,0.045520381,0.045520381
+232,daycare_slots_child_facility_capacity daycare_slots_child_pct_nonwhite,0.04538735,0.04538735
+233,daycare_slots_child_pct_nonwhite daycare_slots_infant_total_pop,0.045338754,0.045338754
+234,graduation_2019_cohort_size gini_coef,0.04512681,0.04512681
+13,graduation_2019_cohort_size,0.045071081,0.045071081
+235,graduation_2019_cohort_size,0.045071081,0.045071081
+236,daycare_slots_infant_pct_nonwhite std_population,0.045060257,0.045060257
+237,abortion_medicaid_expenditures daycare_slots_infant_pct_nonwhite,0.044976509,0.044976509
+238,daycare_slots_child_pct_nonwhite medicaid_sum_0_20,0.044939285,0.044939285
+239,daycare_slots_infant_total_pop daycare_slots_infant_pct_nonwhite,0.044794668,0.044794668
+240,daycare_slots_child_total_pop gini_coef,0.044783557,0.044783557
+4,daycare_slots_child_total_pop,0.044721341,0.044721341
+241,daycare_slots_child_total_pop,0.044721341,0.044721341
+242,daycare_slots_child_facility_capacity daycare_slots_infant_pct_nonwhite,0.044578894,0.044578894
+243,daycare_slots_infant_pct_nonwhite medicaid_sum_0_20,0.044574096,0.044574096
+244,ecigs_sold_pct_tobacco_stores_2016 medicaid_sum_0_20,0.044541703,0.044541703
+245,daycare_slots_child_num_facility ecigs_sold_pct_tobacco_stores_2013,0.044444351,0.044444351
+246,daycare_slots_child_facility_capacity asthma_surpressed,0.044419614,0.044419614
+339,std_chlamydia_rate std_gonorrhea_supressed,-0.044151355,0.044151355
+247,daycare_slots_child_total_pop daycare_slots_child_pct_nonwhite,0.04405577,0.04405577
+248,daycare_slots_child_pct_nonwhite graduation_2019_cohort_size,0.043635391,0.043635391
+249,daycare_slots_child_total_pop daycare_slots_infant_pct_nonwhite,0.043556524,0.043556524
+250,daycare_slots_infant_pct_nonwhite graduation_2019_cohort_size,0.043168329,0.043168329
+251,daycare_slots_infant_total_pop ecigs_sold_pct_tobacco_stores_2016,0.04308263,0.04308263
+252,ecigs_sold_pct_tobacco_stores_2016 std_population,0.04274389,0.04274389
+253,daycare_slots_child_num_facility std_gonorrhea_supressed,0.042669705,0.042669705
+31,unemployment_rate,-0.042438335,0.042438335
+338,unemployment_rate,-0.042438335,0.042438335
+254,abortion_medicaid_expenditures ecigs_sold_pct_tobacco_stores_2013,0.042292698,0.042292698
+337,unemployment_rate gini_coef,-0.042078378,0.042078378
+255,graduation_2019_cohort_size ecigs_sold_pct_tobacco_stores_2016,0.041542347,0.041542347
+256,daycare_slots_child_facility_capacity ecigs_sold_pct_tobacco_stores_2016,0.041524062,0.041524062
+257,daycare_slots_child_total_pop ecigs_sold_pct_tobacco_stores_2016,0.041414781,0.041414781
+258,povr_whole_total_estimate unemployment_rate,0.03943082,0.03943082
+336,std_syphilis_supressed sui_adjusted_rate_avg,-0.038871258,0.038871258
+259,ecigs_sold_pct_tobacco_stores_2013 medicaid_sum_0_20,0.038030818,0.038030818
+260,std_population std_syphilis_supressed,0.037691775,0.037691775
+261,daycare_slots_infant_total_pop std_syphilis_supressed,0.036841947,0.036841947
+262,daycare_slots_infant_total_pop ecigs_sold_pct_tobacco_stores_2013,0.036779458,0.036779458
+263,ecigs_sold_pct_tobacco_stores_2013 std_population,0.036243403,0.036243403
+264,daycare_slots_child_facility_capacity ecigs_sold_pct_tobacco_stores_2013,0.035938798,0.035938798
+265,daycare_slots_child_rate_slots gini_coef,0.035782763,0.035782763
+335,std_gonorrhea_supressed sui_adjusted_rate_avg,-0.035497011,0.035497011
+266,std_gonorrhea_rate unemployment_rate,0.035418531,0.035418531
+267,daycare_slots_child_total_pop ecigs_sold_pct_tobacco_stores_2013,0.035097005,0.035097005
+8,daycare_slots_infant_facility_capacity,-0.034963167,0.034963167
+268,daycare_slots_child_rate_slots std_syphilis_supressed,0.034392431,0.034392431
+11,daycare_slots_infant_num_facility,-0.034310274,0.034310274
+269,daycare_slots_child_num_facility^2,0.034277609,0.034277609
+270,graduation_2019_cohort_size ecigs_sold_pct_tobacco_stores_2013,0.034269525,0.034269525
+271,daycare_slots_child_num_facility std_syphilis_supressed,0.034217299,0.034217299
+272,daycare_slots_infant_pct_nonwhite std_syphilis_supressed,0.034189429,0.034189429
+273,daycare_slots_child_facility_capacity daycare_slots_child_num_facility,0.033562905,0.033562905
+274,abortion_medicaid_expenditures daycare_slots_child_num_facility,0.033483175,0.033483175
+275,daycare_slots_child_num_facility std_population,0.033284634,0.033284634
+276,daycare_slots_child_num_facility daycare_slots_infant_total_pop,0.033273145,0.033273145
+277,abortion_medicaid_expenditures^2,0.033216971,0.033216971
+278,abortion_medicaid_expenditures daycare_slots_infant_total_pop,0.03306368,0.03306368
+279,daycare_slots_child_total_pop daycare_slots_child_num_facility,0.033043616,0.033043616
+280,abortion_medicaid_expenditures daycare_slots_child_facility_capacity,0.033018062,0.033018062
+281,abortion_medicaid_expenditures medicaid_sum_0_20,0.033006842,0.033006842
+282,daycare_slots_child_total_pop std_syphilis_supressed,0.032981484,0.032981484
+283,abortion_medicaid_expenditures std_population,0.032974991,0.032974991
+284,daycare_slots_child_num_facility medicaid_sum_0_20,0.03297321,0.03297321
+285,daycare_slots_child_facility_capacity^2,0.032927743,0.032927743
+286,abortion_medicaid_expenditures daycare_slots_child_total_pop,0.032919712,0.032919712
+287,abortion_medicaid_expenditures graduation_2019_cohort_size,0.032726342,0.032726342
+288,daycare_slots_child_num_facility graduation_2019_cohort_size,0.032690959,0.032690959
+289,daycare_slots_child_facility_capacity daycare_slots_infant_total_pop,0.03257008,0.03257008
+290,daycare_slots_child_facility_capacity std_population,0.032546281,0.032546281
+291,daycare_slots_child_facility_capacity daycare_slots_child_total_pop,0.032334018,0.032334018
+292,daycare_slots_infant_total_pop^2,0.032330749,0.032330749
+293,daycare_slots_child_facility_capacity medicaid_sum_0_20,0.032279095,0.032279095
+294,medicaid_sum_0_20^2,0.032224582,0.032224582
+295,daycare_slots_infant_total_pop medicaid_sum_0_20,0.032198919,0.032198919
+296,daycare_slots_infant_total_pop std_population,0.03217066,0.03217066
+297,std_population^2,0.032130842,0.032130842
+298,daycare_slots_child_total_pop daycare_slots_infant_total_pop,0.032103803,0.032103803
+5,daycare_slots_child_rate_slots,0.032096067,0.032096067
+299,daycare_slots_child_rate_slots,0.032096067,0.032096067
+300,daycare_slots_child_facility_capacity std_gonorrhea_supressed,0.032055361,0.032055361
+301,daycare_slots_child_total_pop medicaid_sum_0_20,0.032004031,0.032004031
+302,std_population medicaid_sum_0_20,0.031976125,0.031976125
+303,daycare_slots_child_total_pop std_population,0.031911969,0.031911969
+304,daycare_slots_child_facility_capacity graduation_2019_cohort_size,0.031909608,0.031909608
+305,daycare_slots_child_total_pop^2,0.03187221,0.03187221
+306,daycare_slots_infant_total_pop graduation_2019_cohort_size,0.031713478,0.031713478
+307,graduation_2019_cohort_size medicaid_sum_0_20,0.03169193,0.03169193
+308,graduation_2019_cohort_size std_population,0.031493449,0.031493449
+309,daycare_slots_child_total_pop graduation_2019_cohort_size,0.031458452,0.031458452
+310,daycare_slots_child_facility_capacity std_syphilis_supressed,0.031115504,0.031115504
+311,gini_coef^2,0.031076564,0.031076564
+312,graduation_2019_cohort_size^2,0.031024808,0.031024808
+313,povr_whole_total_estimate std_syphilis_supressed,0.030590841,0.030590841
+314,daycare_slots_child_pct_nonwhite std_syphilis_supressed,0.029307295,0.029307295
+334,std_gonorrhea_supressed std_syphilis_supressed,-0.029171399,0.029171399
+315,std_gonorrhea_rate std_syphilis_supressed,0.027757527,0.027757527
+316,infant_mortality_rate std_syphilis_supressed,0.027659178,0.027659178
+317,gini_coef,0.027001176,0.027001176
+33,gini_coef,0.027001176,0.027001176
+318,ecigs_sold_pct_tobacco_stores_2016 std_syphilis_supressed,0.026679972,0.026679972
+319,adolescent_birth_abr std_syphilis_supressed,0.024568237,0.024568237
+332,ecigs_sold_pct_tobacco_stores_2016 std_chlamydia_supressed,-0.023725333,0.023725333
+333,asthma_surpressed std_chlamydia_supressed,-0.023725333,0.023725333
+320,std_syphilis_supressed gini_coef,0.02276685,0.02276685
+321,ecigs_sold_pct_tobacco_stores_2013 std_syphilis_supressed,0.021261625,0.021261625
+29,std_syphilis_supressed,0.020815824,0.020815824
+322,std_syphilis_supressed,0.020815824,0.020815824
+323,std_syphilis_supressed^2,0.020815824,0.020815824
+331,std_gonorrhea_supressed std_population,-0.012681266,0.012681266
+1,abortion_rs_count_total,0.010838476,0.010838476
+330,unemployment_rate^2,-0.007714881,0.007714881
+324,daycare_slots_child_total_pop std_gonorrhea_supressed,0.005019758,0.005019758
+325,std_syphilis_rate std_syphilis_supressed,0.003027296,0.003027296
+326,daycare_slots_infant_total_pop std_gonorrhea_supressed,0.002527006,0.002527006
+327,std_syphilis_supressed unemployment_rate,0.001623716,0.001623716
+329,std_gonorrhea_supressed std_syphilis_rate,-0.001223414,0.001223414
+328,std_gonorrhea_supressed medicaid_sum_0_20,0.000673377,0.000673377
