@@ -1,7 +1,8 @@
 ## My stuff just for DSB-318##
 ## Emily K. Sanders ##
 
-ignore/
+# Secret hidden folder
+*ignore*/
 
 # R Studio
 *.R
