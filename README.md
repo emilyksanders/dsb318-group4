@@ -3,6 +3,7 @@
 ###### Eli Winton, Emily K. Sanders, and Radha Mohanty
 ###### DSB-318, Project 4, Group 4, May 17, 2024
 ---
+###### *A [table of contents](#Table-of-Contents) for the repository is available at the bottom of this README.*
 
 ## Problem Statement
 Not obtaining a high school diploma carries serious detrimental consequences for a child's whole life.  We will investigate how various social conditions predict high school dropout rates at the county level in California using regression algorithms and data retrieved from government sources.
@@ -11,7 +12,7 @@ Not obtaining a high school diploma carries serious detrimental consequences for
 We have been hired by the *Coalition for Unprecedented Transformative Education for California Teachers and Students*, an umbrella organization for non-governmental organizations (NGOs) in California, to assess factors that may contribute to unequal opportunity for educational attainment across regions of the state. These NGOs will use our findings and recommendations to shape their own policy goals and political advocacy.
 
 ## Background and Purpose
-Research has shown that there are many social determinants of educational success, beyond just any child’s merit or self-discipline, but that children who do not obtain high school diplomas often face social and economic hardships for the rest of their lives. Therefore, at the request of our commissioners, we will use publicly available data about a variety of social conditions across California counties to predict the dropout rate within a [4 year adjusted graduation cohort](https://www.cde.ca.gov/ds/ad/acgrinfo.asp).  This will allow our commissioners to become more informed about the disparities in educational outcomes across the state and better advocate for increasing students' opportunities for success by decreasing the dropout rate.  
+There are many social determinants of educational success, beyond just any child’s merit or self-discipline, but that children who do not obtain high school diplomas often face social and economic hardships for the rest of their lives. Therefore, at the request of our commissioners, we will use publicly available data about a variety of social conditions across California counties to predict the dropout rate within a [4 year adjusted graduation cohort](https://www.cde.ca.gov/ds/ad/acgrinfo.asp).  This will allow our commissioners to become more informed about the disparities in educational outcomes across the state and better advocate for increasing students' opportunities for success by decreasing the dropout rate.  
 
 If a suitable predictive model can be created, it will allow advocates to anticipate the county-level dropout rate if current trends continue, and plan their community efforts and political advocacy accordingly.  For example, if Modoc County were predicted to have a high dropout rate whereas Lassen County were predicted to have a low one, the *North-Eastern Alliance for Transforming the Californian  Technology Sector*, a group of innovators who seek to inspire underpriviliged young people to pursue careers in the technology industry, may choose to focus their efforts on Modoc County, where they are more needed.  Furthermore, if a model suitable for interpretation can be created, it will allow us and our commissioners to evaluate which social determinants may be the most influential on the rate of degree acquisition, and make decisions accordingly.  In this case, for example, the *Glenn Open Opportunity Society for Education*, a civic organization in Glenn County dedicated to mentoring high school students, may choose to prioritize students with certain characteristics to to matched with members for 1-on-1 mentoring.  In either case, political advocacy groups in the coalition, such as *Educators Dare to Dream of Immigration Equity*, can use our findings to advance their goals at the statehouse.
 
@@ -39,13 +40,14 @@ We collected multiple publicly available datasets about county-level social cond
 |--------|-----------|---------------|
 |(none)|readme|This is the current file.|
 |(none)|ca_dropout_rate_presentation.pdf|The presentation slides that accompany this report.|
-|/notebooks| |This folder contains a collection of Jupyter notebooks, in which reader can find examples of the `python` code we used to run our analyses, as well as brief written explanations.  These notebooks are named in the order we recommend reading them.|
-|/data||This folder contains data files.  The overall data file that we based our analysis on is loose in the folder.  The subfolders contain the original datasets and data dictionaries as retrieved from the sources, as well as our cleaned versions of those datasets.
+|/01_notebooks| |This folder contains a collection of Jupyter notebooks, in which reader can find examples of the `python` code we used to run our analyses, as well as brief written explanations.  These notebooks are named in the order we recommend reading them.|
+|/02_data||This folder contains data files.  The overall data file that we based our analysis on is loose in the folder.  The subfolders contain the original datasets and data dictionaries as retrieved from the sources, as well as our cleaned versions of those datasets.
 ||ca_dropout_and_predictors.csv|This is the dataset we based our analyses on.  It was constructed from the multiple datasets retrieved from the sources.|
-||/original_datasets|This folder contains the individual CSV files corresponding to different variables as retrieved from the sources.  Note that we have only included the files we used; most of them were originally part of a larger package of files available at the source.|
-||/cleaned_datasets|This folder contains the individual CSV files corresponding to different variables as they appeared after we cleaned and streamlined them.  Note that we made a few further edits as needed between these versions and the final analysis dataset.  These edits should be readily visibly apparent.|
-||/original_data_dictionaries|This folder contains the original data dictionaries that came with the datasets, whenever available.  Note that not all datasets came with a data dictionary, and that not all of the variables in these data dictionaries remained in our final dataset.|
-|/images| |This folder contains images, mostly graphs, that support the report.|
+||/01_original_datasets|This folder contains the individual CSV files corresponding to different variables as retrieved from the sources.  Note that we have only included the files we used; most of them were originally part of a larger package of files available at the source.|
+||/02_cleaned_datasets|This folder contains the individual CSV files corresponding to different variables as they appeared after we cleaned and streamlined them.  Note that we made a few further edits as needed between these versions and the final analysis dataset.  These edits should be readily visibly apparent.|
+||/03_output|This folder contains any files produced within the notebooks.|
+||/04_original_data_dictionaries|This folder contains the original data dictionaries that came with the datasets, whenever available.  Note that not all datasets came with a data dictionary, and that not all of the variables in these data dictionaries remained in our final dataset.|
+|/03_images| |This folder contains images, mostly graphs, that support the report.|
 
 
 
