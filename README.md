@@ -57,7 +57,7 @@ In conclusion, we are honored to have had the opportunity to contribute to such 
 ||/01_original_datasets|This folder contains the individual CSV files corresponding to different variables as retrieved from the sources.  Note that we have only included the files we used; most of them were originally part of a larger package of files available at the source.|
 ||/02_cleaned_datasets|This folder contains the individual CSV files corresponding to different variables as they appeared after we cleaned and streamlined them.  Note that we made a few further edits as needed between these versions and the final analysis dataset.  These edits should be readily visibly apparent.|
 ||/03_output|This folder contains any files produced within the notebooks.|
-||/04_original_data_dictionaries|This folder contains the original data dictionaries that came with the datasets, whenever available.  Note that not all datasets came with a data dictionary, and that not all of the variables in these data dictionaries remained in our final dataset.|
+||/04_data_dictionaries|This folder contains our data dictionary, as well as the original data dictionaries that came with the datasets, whenever available.  Note that not all datasets came with a data dictionary, and that not all of the variables in these data dictionaries remained in our final dataset.|
 |/03_images| |This folder contains images, mostly graphs, that support the report.|
 
 
